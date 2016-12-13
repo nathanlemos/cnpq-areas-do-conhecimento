@@ -1,0 +1,5134 @@
+{
+  "grandes-areas": [
+    {
+      "codigo": "10000003",
+      "nome": "Ciências Exatas e da Terra",
+      "areas": [
+        {
+          "codigo": "10100008",
+          "nome": "Matemática",
+          "sub-areas": [
+            {
+              "codigo": "10101004",
+              "nome": "Álgebra",
+              "especialidades": [
+                {
+                  "codigo": "10101012",
+                  "nome": "Conjuntos"
+                },
+                {
+                  "codigo": "10101020",
+                  "nome": "Lógica Matemática"
+                },
+                {
+                  "codigo": "10101039",
+                  "nome": "Teoria dos Números"
+                },
+                {
+                  "codigo": "10101047",
+                  "nome": "Grupos de Álgebra Não-Comutaviva"
+                },
+                {
+                  "codigo": "10101055",
+                  "nome": "Álgebra Comutativa"
+                },
+                {
+                  "codigo": "10101063",
+                  "nome": "Geometria Algébrica"
+                }
+              ]
+            },
+            {
+              "codigo": "10102000",
+              "nome": "Análise",
+              "especialidades": [
+                {
+                  "codigo": "10102019",
+                  "nome": "Análise Complexa"
+                },
+                {
+                  "codigo": "10102027",
+                  "nome": "Análise Funcional"
+                },
+                {
+                  "codigo": "10102035",
+                  "nome": "Análise Funcional Não-Linear"
+                },
+                {
+                  "codigo": "10102043",
+                  "nome": "Equações Diferenciais Ordinárias"
+                },
+                {
+                  "codigo": "10102051",
+                  "nome": "Equações Diferenciais Parciais"
+                },
+                {
+                  "codigo": "10102060",
+                  "nome": "Equações Diferenciais Funcionais"
+                }
+              ]
+            },
+            {
+              "codigo": "10103007",
+              "nome": "Geometria e Topologia",
+              "especialidades": [
+                {
+                  "codigo": "10103015",
+                  "nome": "Geometria Diferencial"
+                },
+                {
+                  "codigo": "10103023",
+                  "nome": "Topologia Algébrica"
+                },
+                {
+                  "codigo": "10103031",
+                  "nome": "Topologia das Variedades"
+                },
+                {
+                  "codigo": "10103040",
+                  "nome": "Sistemas Dinâmicos"
+                },
+                {
+                  "codigo": "10103058",
+                  "nome": "Teoria das Singularidades e Teoria das Catástrofes"
+                },
+                {
+                  "codigo": "10103066",
+                  "nome": "Teoria das Folheações"
+                }
+              ]
+            },
+            {
+              "codigo": "10104003",
+              "nome": "Matemática Aplicada",
+              "especialidades": [
+                {
+                  "codigo": "10104011",
+                  "nome": "Física Matemática"
+                },
+                {
+                  "codigo": "10104020",
+                  "nome": "Análise Numérica"
+                },
+                {
+                  "codigo": "10104038",
+                  "nome": "Matemática Discreta e Combinatória"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "10200002",
+          "nome": "Probabilidade e Estatística",
+          "sub-areas": [
+            {
+              "codigo": "10201009",
+              "nome": "Probabilidade",
+              "especialidades": [
+                {
+                  "codigo": "10201017",
+                  "nome": "Teoria Geral e Fundamentos da Probabilidade"
+                },
+                {
+                  "codigo": "10201025",
+                  "nome": "Teoria Geral e Processos Estocásticos"
+                },
+                {
+                  "codigo": "10201033",
+                  "nome": "Teoremas de Limite"
+                },
+                {
+                  "codigo": "10201041",
+                  "nome": "Processos Markovianos"
+                },
+                {
+                  "codigo": "10201050",
+                  "nome": "Análise Estocástica"
+                },
+                {
+                  "codigo": "10201068",
+                  "nome": "Processos Estocásticos Especiais"
+                }
+              ]
+            },
+            {
+              "codigo": "10202005",
+              "nome": "Estatística",
+              "especialidades": [
+                {
+                  "codigo": "10202013",
+                  "nome": "Fundamentos da Estatística"
+                },
+                {
+                  "codigo": "10202021",
+                  "nome": "Inferência Paramétrica"
+                },
+                {
+                  "codigo": "10202030",
+                  "nome": "Inferência Não-Paramétrica"
+                },
+                {
+                  "codigo": "10202048",
+                  "nome": "Inferência em Processos Estocásticos"
+                },
+                {
+                  "codigo": "10202056",
+                  "nome": "Análise Multivariada"
+                },
+                {
+                  "codigo": "10202064",
+                  "nome": "Regressão e Correlação"
+                },
+                {
+                  "codigo": "10202072",
+                  "nome": "Planejamento de Experimentos"
+                },
+                {
+                  "codigo": "10202080",
+                  "nome": "Análise de Dados"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "10300007",
+          "nome": "Ciência da Computação",
+          "sub-areas": [
+            {
+              "codigo": "10301003",
+              "nome": "Teoria da Computação",
+              "especialidades": [
+                {
+                  "codigo": "10301011",
+                  "nome": "Computabilidade e Modelos de Computação"
+                },
+                {
+                  "codigo": "10301020",
+                  "nome": "Linguagem Formais e Autômatos"
+                },
+                {
+                  "codigo": "10301038",
+                  "nome": "Análise de Algoritmos e Complexidade de Computação"
+                },
+                {
+                  "codigo": "10301046",
+                  "nome": "Lógicas e Semântica de Programas"
+                }
+              ]
+            },
+            {
+              "codigo": "10302000",
+              "nome": "Matemática da Computação",
+              "especialidades": [
+                {
+                  "codigo": "10302018",
+                  "nome": "Matemática Simbólica"
+                },
+                {
+                  "codigo": "10302026",
+                  "nome": "Modelos Analíticos e de Simulação"
+                }
+              ]
+            },
+            {
+              "codigo": "10303006",
+              "nome": "Metodologia e Técnicas da Computação",
+              "especialidades": [
+                {
+                  "codigo": "10303014",
+                  "nome": "Linguagens de Programação"
+                },
+                {
+                  "codigo": "10303022",
+                  "nome": "Engenharia de Software"
+                },
+                {
+                  "codigo": "10303030",
+                  "nome": "Banco de Dados"
+                },
+                {
+                  "codigo": "10303049",
+                  "nome": "Sistemas de Informação"
+                },
+                {
+                  "codigo": "10303057",
+                  "nome": "Processamento Gráfico (Graphics)"
+                }
+              ]
+            },
+            {
+              "codigo": "10304002",
+              "nome": "Sistemas de Computação",
+              "especialidades": [
+                {
+                  "codigo": "10304010",
+                  "nome": "Hardware"
+                },
+                {
+                  "codigo": "10304029",
+                  "nome": "Arquitetura de Sistemas de Computação"
+                },
+                {
+                  "codigo": "10304037",
+                  "nome": "Software Básico"
+                },
+                {
+                  "codigo": "10304045",
+                  "nome": "Teleinformática"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "10400001",
+          "nome": "Astronomia",
+          "sub-areas": [
+            {
+              "codigo": "10401008",
+              "nome": "Astronomia de Posição e Mecânica Celeste",
+              "especialidades": [
+                {
+                  "codigo": "10401016",
+                  "nome": "Astronomia Fundamental"
+                },
+                {
+                  "codigo": "10401024",
+                  "nome": "Astronomia Dinâmica"
+                }
+              ]
+            },
+            {
+              "codigo": "10403000",
+              "nome": "Astrofísica do Meio Interestelar",
+              "especialidades": [
+                {
+                  "codigo": "10403019",
+                  "nome": "Meio Interestelar"
+                },
+                {
+                  "codigo": "10403027",
+                  "nome": "Nebulosa"
+                }
+              ]
+            },
+            {
+              "codigo": "10404007",
+              "nome": "Astrofísica Extragalactica",
+              "especialidades": [
+                {
+                  "codigo": "10404015",
+                  "nome": "Galáxias"
+                },
+                {
+                  "codigo": "10404023",
+                  "nome": "Aglomerados de Galáxias"
+                },
+                {
+                  "codigo": "10404031",
+                  "nome": "Quasares"
+                },
+                {
+                  "codigo": "10404040",
+                  "nome": "Cosmologia"
+                }
+              ]
+            },
+            {
+              "codigo": "10405003",
+              "nome": "Astrofísica do Sistema Solar",
+              "especialidades": [
+                {
+                  "codigo": "10405011",
+                  "nome": "Física Solar"
+                },
+                {
+                  "codigo": "10405020",
+                  "nome": "Movimento da Terra"
+                },
+                {
+                  "codigo": "10405038",
+                  "nome": "Sistema Planetário"
+                }
+              ]
+            },
+            {
+              "codigo": "10406000",
+              "nome": "Instrumentação Astronômica",
+              "especialidades": [
+                {
+                  "codigo": "10406018",
+                  "nome": "Astronomia Ótica"
+                },
+                {
+                  "codigo": "10406026",
+                  "nome": "Radioastronomia"
+                },
+                {
+                  "codigo": "10406034",
+                  "nome": "Astronomia Espacial"
+                },
+                {
+                  "codigo": "10406042",
+                  "nome": "Processamento de Dados Astronômicos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "10500006",
+          "nome": "Física",
+          "sub-areas": [
+            {
+              "codigo": "10501002",
+              "nome": "Física Geral",
+              "especialidades": [
+                {
+                  "codigo": "10501010",
+                  "nome": "Métodos Matemáticos da Física"
+                },
+                {
+                  "codigo": "10501029",
+                  "nome": "Física Clássica e Física Quântica; Mecânica e Campos"
+                },
+                {
+                  "codigo": "10501037",
+                  "nome": "Relatividade e Gravitação"
+                },
+                {
+                  "codigo": "10501045",
+                  "nome": "Física Estatística e Termodinâmica"
+                },
+                {
+                  "codigo": "10501053",
+                  "nome": "Metrologia, Técnicas Gerais de Laboratório, Sistema de Instrumentação"
+                },
+                {
+                  "codigo": "10501061",
+                  "nome": "Instrumentação Específica de Uso Geral em Física"
+                }
+              ]
+            },
+            {
+              "codigo": "10502009",
+              "nome": "Áreas Clássicas de Fenomenologia e suas Aplicações",
+              "especialidades": [
+                {
+                  "codigo": "10502017",
+                  "nome": "Eletricidade e Magnetismo; Campos e Partículas Carregadas"
+                },
+                {
+                  "codigo": "10502025",
+                  "nome": "Ótica"
+                },
+                {
+                  "codigo": "10502033",
+                  "nome": "Acústica"
+                },
+                {
+                  "codigo": "10502041",
+                  "nome": "Transferência de Calor; Processos Térmicos e Termodinâmicos"
+                },
+                {
+                  "codigo": "10502050",
+                  "nome": "Mecânica, Elasticidade e Reologia"
+                },
+                {
+                  "codigo": "10502068",
+                  "nome": "Dinâmica dos Fluídos"
+                }
+              ]
+            },
+            {
+              "codigo": "10503005",
+              "nome": "Física das Partículas Elementares e Campos",
+              "especialidades": [
+                {
+                  "codigo": "10503013",
+                  "nome": "Teoria Geral de Partículas e Campos"
+                },
+                {
+                  "codigo": "10503021",
+                  "nome": "Teorias Específicas e Modelos de Interação; Sistemática de Partículas; Raios Cósmicos"
+                },
+                {
+                  "codigo": "10503030",
+                  "nome": "Reações Específicas e Fenomiologia de Partículas"
+                },
+                {
+                  "codigo": "10503048",
+                  "nome": "Propriedades de Partículas Específicas e Ressonâncias"
+                }
+              ]
+            },
+            {
+              "codigo": "10504001",
+              "nome": "Física Nuclear",
+              "especialidades": [
+                {
+                  "codigo": "10504010",
+                  "nome": "Estrutura Nuclear"
+                },
+                {
+                  "codigo": "10504028",
+                  "nome": "Desintegração Nuclear e Radioatividade"
+                },
+                {
+                  "codigo": "10504036",
+                  "nome": "Reações Nucleares e Espalhamento Geral"
+                },
+                {
+                  "codigo": "10504044",
+                  "nome": "Reações Nucleares e Espalhamento (Reações Específicas)"
+                },
+                {
+                  "codigo": "10504052",
+                  "nome": "Propriedades de Núcleos Específicos"
+                },
+                {
+                  "codigo": "10504060",
+                  "nome": "Métodos Experimentais e Instrumentação para Partículas Elementares e Física Nuclear"
+                }
+              ]
+            },
+            {
+              "codigo": "10505008",
+              "nome": "Física Atômica e Molecular",
+              "especialidades": [
+                {
+                  "codigo": "10505016",
+                  "nome": "Estrutura Eletrônica de Átomos e Moléculas; Teoria"
+                },
+                {
+                  "codigo": "10505024",
+                  "nome": "Espectros Atômicos e Integração de Fótons"
+                },
+                {
+                  "codigo": "10505032",
+                  "nome": "Espectros Moleculares e Interações de Fótons com Moléculas"
+                },
+                {
+                  "codigo": "10505040",
+                  "nome": "Processos de Colisão e Interações de Átomos e Moléculas"
+                },
+                {
+                  "codigo": "10505059",
+                  "nome": "Inf. sobre Átomos e Moléculas Obtidos Experimentalmente; Instrumentação e Técnicas"
+                },
+                {
+                  "codigo": "10505067",
+                  "nome": "Estudos de Átomos e Moléculas Especiais"
+                }
+              ]
+            },
+            {
+              "codigo": "10506004",
+              "nome": "Física dos Fluídos, Física de Plasmas e Descargas Elétricas",
+              "especialidades": [
+                {
+                  "codigo": "10506012",
+                  "nome": "Cinética e Teoria de Transporte de Fluídos; Propriedades Físicas de Gases"
+                },
+                {
+                  "codigo": "10506020",
+                  "nome": "Física de Plasmas e Descargas Elétricas"
+                }
+              ]
+            },
+            {
+              "codigo": "10507000",
+              "nome": "Física da Matéria Condensada",
+              "especialidades": [
+                {
+                  "codigo": "10507019",
+                  "nome": "Estrutura de Líquidos e Sólidos; Cristalografia"
+                },
+                {
+                  "codigo": "10507027",
+                  "nome": "Propriedades Mecânicas e Acústicas da Matéria Condensada"
+                },
+                {
+                  "codigo": "10507035",
+                  "nome": "Dinâmica da Rede e Estatística de Cristais"
+                },
+                {
+                  "codigo": "10507043",
+                  "nome": "Equação de Estado, Equilíbrio de Fases e Transições de Fase"
+                },
+                {
+                  "codigo": "10507051",
+                  "nome": "Propriedades Térmicas da Matéria Condensada"
+                },
+                {
+                  "codigo": "10507060",
+                  "nome": "Propriedades de Transportes de Matéria Condensada (Não Eletrônica)"
+                },
+                {
+                  "codigo": "10507078",
+                  "nome": "Campos Quânticos e Sólidos, Hélio, Líquido, Sólido"
+                },
+                {
+                  "codigo": "10507086",
+                  "nome": "Superfícies e Interfaces; Películas e Filamentos"
+                },
+                {
+                  "codigo": "10507094",
+                  "nome": "Estados Eletrônicos"
+                },
+                {
+                  "codigo": "10507108",
+                  "nome": "Transp. Eletrônicos e Prop. Elétricas de Superfícies; Interfaces e Películas"
+                },
+                {
+                  "codigo": "10507116",
+                  "nome": "Estruturas Eletrônicas e Propriedades Elétricas de Superfícies; Interf. e Partículas"
+                },
+                {
+                  "codigo": "10507124",
+                  "nome": "Supercondutividade"
+                },
+                {
+                  "codigo": "10507132",
+                  "nome": "Materiais Magnéticos e Propriedades Magnéticas"
+                },
+                {
+                  "codigo": "10507140",
+                  "nome": "Ressonância Mag. e Relax. na Mat. Condens; Efeitos Mosbauer; Corr. Ang. Pertubada"
+                },
+                {
+                  "codigo": "10507159",
+                  "nome": "Materiais Dielétricos e Propriedades Dielétricas"
+                },
+                {
+                  "codigo": "10507167",
+                  "nome": "Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part."
+                },
+                {
+                  "codigo": "10507175",
+                  "nome": "Emissão Eletrônica e Iônica por Líquidos e Sólidos; Fenômenos de Impacto"
+                }
+              ]
+            }
+          ]
+},
+{
+  "codigo": "10600000",
+  "nome": "Química",
+  "sub-areas": [
+    {
+      "codigo": "10601007",
+      "nome": "Química Orgânica",
+      "especialidades": [
+        {
+          "codigo": "10601015",
+          "nome": "Estrutura, Conformação e Estereoquímica"
+        },
+        {
+          "codigo": "10601023",
+          "nome": "Síntese Orgânica"
+        },
+        {
+          "codigo": "10601031",
+          "nome": "Físico-Química Orgânica"
+        },
+        {
+          "codigo": "10601040",
+          "nome": "Fotoquímica Orgânica"
+        },
+        {
+          "codigo": "10601058",
+          "nome": "Química dos Produtos Naturais"
+        },
+        {
+          "codigo": "10601066",
+          "nome": "Evolução, Sistemática e Ecologia Química"
+        },
+        {
+          "codigo": "10601074",
+          "nome": "Polímeros e Colóides"
+        }
+      ]
+    },
+    {
+      "codigo": "10602003",
+      "nome": "Química Inorgânica",
+      "especialidades": [
+        {
+          "codigo": "10602011",
+          "nome": "Campos de Coordenação"
+        },
+        {
+          "codigo": "10602020",
+          "nome": "Não-Metais e Seus Compostos"
+        },
+        {
+          "codigo": "10602038",
+          "nome": "Compostos Organo-Metálicos"
+        },
+        {
+          "codigo": "10602046",
+          "nome": "Determinação de Estrutura de Compostos Inorgânicos"
+        },
+        {
+          "codigo": "10602054",
+          "nome": "Foto-Química Inorgânica"
+        },
+        {
+          "codigo": "10602062",
+          "nome": "Físico Química Inorgânica"
+        },
+        {
+          "codigo": "10602070",
+          "nome": "Química Bio-Inorgânica"
+        }
+      ]
+    },
+    {
+      "codigo": "10603000",
+      "nome": "Físico-Química",
+      "especialidades": [
+        {
+          "codigo": "10603018",
+          "nome": "Cinética Química e Catálise"
+        },
+        {
+          "codigo": "10603026",
+          "nome": "Eletroquímica"
+        },
+        {
+          "codigo": "10603034",
+          "nome": "Espectroscopia"
+        },
+        {
+          "codigo": "10603042",
+          "nome": "Química de Interfaces"
+        },
+        {
+          "codigo": "10603050",
+          "nome": "Química do Estado Condensado"
+        },
+        {
+          "codigo": "10603069",
+          "nome": "Química Nuclear e Radioquímica"
+        },
+        {
+          "codigo": "10603077",
+          "nome": "Química Teórica"
+        },
+        {
+          "codigo": "10603085",
+          "nome": "Termodinâmica Química"
+        }
+      ]
+    },
+    {
+      "codigo": "10604006",
+      "nome": "Química Analítica",
+      "especialidades": [
+        {
+          "codigo": "10604014",
+          "nome": "Separação"
+        },
+        {
+          "codigo": "10604022",
+          "nome": "Métodos Óticos de Análise"
+        },
+        {
+          "codigo": "10604030",
+          "nome": "Eletroanalítica"
+        },
+        {
+          "codigo": "10604049",
+          "nome": "Gravimetria"
+        },
+        {
+          "codigo": "10604057",
+          "nome": "Titimetria"
+        },
+        {
+          "codigo": "10604065",
+          "nome": "Instrumentação Analítica"
+        },
+        {
+          "codigo": "10604073",
+          "nome": "Análise de Traços e Química Ambiental"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "10700005",
+  "nome": "Geociências",
+  "sub-areas": [
+    {
+      "codigo": "10701001",
+      "nome": "Geologia",
+      "especialidades": [
+        {
+          "codigo": "10701010",
+          "nome": "Mineralogia"
+        },
+        {
+          "codigo": "10701028",
+          "nome": "Petrologia"
+        },
+        {
+          "codigo": "10701036",
+          "nome": "Geoquímica"
+        },
+        {
+          "codigo": "10701044",
+          "nome": "Geologia Regional"
+        },
+        {
+          "codigo": "10701052",
+          "nome": "Geotectônica"
+        },
+        {
+          "codigo": "10701060",
+          "nome": "Geocronologia"
+        },
+        {
+          "codigo": "10701079",
+          "nome": "Cartografia Geológica"
+        },
+        {
+          "codigo": "10701087",
+          "nome": "Metalogenia"
+        },
+        {
+          "codigo": "10701095",
+          "nome": "Hidrogeologia"
+        },
+        {
+          "codigo": "10701109",
+          "nome": "Prospecção Mineral"
+        },
+        {
+          "codigo": "10701117",
+          "nome": "Sedimentologia"
+        },
+        {
+          "codigo": "10701125",
+          "nome": "Paleontologia Estratigráfica"
+        },
+        {
+          "codigo": "10701133",
+          "nome": "Estratigrafia"
+        },
+        {
+          "codigo": "10701141",
+          "nome": "Geologia Ambiental"
+        }
+      ]
+    },
+    {
+      "codigo": "10702008",
+      "nome": "Geofísica",
+      "especialidades": [
+        {
+          "codigo": "10702016",
+          "nome": "Geomagnetismo"
+        },
+        {
+          "codigo": "10702024",
+          "nome": "Sismologia"
+        },
+        {
+          "codigo": "10702032",
+          "nome": "Geotermia e Fluxo Térmico"
+        },
+        {
+          "codigo": "10702040",
+          "nome": "Propriedades Físicas das Rochas"
+        },
+        {
+          "codigo": "10702059",
+          "nome": "Geofísica Nuclear"
+        },
+        {
+          "codigo": "10702067",
+          "nome": "Sensoriamento Remoto"
+        },
+        {
+          "codigo": "10702075",
+          "nome": "Aeronomia"
+        },
+        {
+          "codigo": "10702083",
+          "nome": "Desenvolvimento de Instrumentação Geofísica"
+        },
+        {
+          "codigo": "10702091",
+          "nome": "Geofísica Aplicada"
+        },
+        {
+          "codigo": "10702105",
+          "nome": "Gravimetria"
+        }
+      ]
+    },
+    {
+      "codigo": "10703004",
+      "nome": "Meteorologia",
+      "especialidades": [
+        {
+          "codigo": "10703012",
+          "nome": "Meteorologia Dinâmica"
+        },
+        {
+          "codigo": "10703020",
+          "nome": "Meteorologia Sinótica"
+        },
+        {
+          "codigo": "10703039",
+          "nome": "Meteorologia Física"
+        },
+        {
+          "codigo": "10703047",
+          "nome": "Química da Atmosfera"
+        },
+        {
+          "codigo": "10703055",
+          "nome": "Instrumentação Meteorológica"
+        },
+        {
+          "codigo": "10703063",
+          "nome": "Climatologia"
+        },
+        {
+          "codigo": "10703071",
+          "nome": "Micrometeorologia"
+        },
+        {
+          "codigo": "10703080",
+          "nome": "Sensoriamento Remoto da Atmosfera"
+        },
+        {
+          "codigo": "10703098",
+          "nome": "Meteorologia Aplicada"
+        }
+      ]
+    },
+    {
+      "codigo": "10704000",
+      "nome": "Geodésia",
+      "especialidades": [
+        {
+          "codigo": "10704019",
+          "nome": "Geodésia Física"
+        },
+        {
+          "codigo": "10704027",
+          "nome": "Geodésia Geométrica"
+        },
+        {
+          "codigo": "10704035",
+          "nome": "Geodésia Celeste"
+        },
+        {
+          "codigo": "10704043",
+          "nome": "Fotogrametria"
+        },
+        {
+          "codigo": "10704051",
+          "nome": "Cartografia Básica"
+        }
+      ]
+    },
+    {
+      "codigo": "10705007",
+      "nome": "Geografia Física",
+      "especialidades": [
+        {
+          "codigo": "10705015",
+          "nome": "Geomorfologia"
+        },
+        {
+          "codigo": "10705023",
+          "nome": "Climatologia Geográfica"
+        },
+        {
+          "codigo": "10705031",
+          "nome": "Pedologia"
+        },
+        {
+          "codigo": "10705040",
+          "nome": "Hidrogeografia"
+        },
+        {
+          "codigo": "10705058",
+          "nome": "Geoecologia"
+        },
+        {
+          "codigo": "10705066",
+          "nome": "Fotogeografia (Físico-Ecológica)"
+        },
+        {
+          "codigo": "10705074",
+          "nome": "Geocartografia"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "10800000",
+  "nome": "Oceanografia",
+  "sub-areas": [
+    {
+      "codigo": "10801006",
+      "nome": "Oceanografia Biológica",
+      "especialidades": {
+        "codigo": "10801014",
+        "nome": "Interação entre os Organismos Marinhos e os Parâmetros Ambientais"
+      }
+    },
+    {
+      "codigo": "10802002",
+      "nome": "Oceanografia Física",
+      "especialidades": [
+        {
+          "codigo": "10802010",
+          "nome": "Variáveis Físicas da Água do Mar"
+        },
+        {
+          "codigo": "10802029",
+          "nome": "Movimento da Água do Mar"
+        },
+        {
+          "codigo": "10802037",
+          "nome": "Origem das Massas de Água"
+        },
+        {
+          "codigo": "10802045",
+          "nome": "Interação do Oceano com o Leito do Mar"
+        },
+        {
+          "codigo": "10802053",
+          "nome": "Interação do Oceano com a Atmosfera"
+        }
+      ]
+    },
+    {
+      "codigo": "10803009",
+      "nome": "Oceanografia Química",
+      "especialidades": [
+        {
+          "codigo": "10803017",
+          "nome": "Propriedades Químicas da Água do Mar"
+        },
+        {
+          "codigo": "10803025",
+          "nome": "Interações Químico-Biológicas/Geológicas das Substâncias Químicas da Água do Mar"
+        }
+      ]
+    },
+    {
+      "codigo": "10804005",
+      "nome": "Oceanografia Geológica",
+      "especialidades": [
+        {
+          "codigo": "10804013",
+          "nome": "Geomorfologia Submarina"
+        },
+        {
+          "codigo": "10804021",
+          "nome": "Sedimentologia Marinha"
+        },
+        {
+          "codigo": "10804030",
+          "nome": "Geofísica Marinha"
+        },
+        {
+          "codigo": "10804048",
+          "nome": "Geoquímica Marinha"
+        }
+      ]
+    }
+  ]
+}
+]
+},
+{
+  "codigo": "20000006",
+  "nome": "Ciências Biológicas",
+  "areas": [
+    {
+      "codigo": "20300000",
+      "nome": "Botânica",
+      "sub-areas": [
+        {
+          "codigo": "20302002",
+          "nome": "Morfologia Vegetal",
+          "especialidades": [
+            {
+              "codigo": "20302010",
+              "nome": "Morfologia Externa"
+            },
+            {
+              "codigo": "20302029",
+              "nome": "Citologia Vegetal"
+            },
+            {
+              "codigo": "20302037",
+              "nome": "Anatomia Vegetal"
+            },
+            {
+              "codigo": "20302045",
+              "nome": "Palinologia"
+            }
+          ]
+        },
+        {
+          "codigo": "20303009",
+          "nome": "Fisiologia Vegetal",
+          "especialidades": [
+            {
+              "codigo": "20303017",
+              "nome": "Nutrição e Crescimento Vegetal"
+            },
+            {
+              "codigo": "20303025",
+              "nome": "Reprodução Vegetal"
+            },
+            {
+              "codigo": "20303033",
+              "nome": "Ecofisiologia Vegetal"
+            }
+          ]
+        },
+        {
+          "codigo": "20304005",
+          "nome": "Taxonomia Vegetal",
+          "especialidades": [
+            {
+              "codigo": "20304013",
+              "nome": "Taxonomia de Criptógamos"
+            },
+            {
+              "codigo": "20304021",
+              "nome": "Taxonomia de Fanerógamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "20400004",
+      "nome": "Zoologia",
+      "sub-areas": {
+        "codigo": "20406002",
+        "nome": "Zoologia Aplicada",
+        "especialidades": [
+          {
+            "codigo": "20406010",
+            "nome": "Conservação das Espécies Animais"
+          },
+          {
+            "codigo": "20406029",
+            "nome": "Utilização dos Animais"
+          },
+          {
+            "codigo": "20406037",
+            "nome": "Controle Populacional de Animais"
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "20600003",
+      "nome": "Morfologia",
+      "sub-areas": {
+        "codigo": "20604009",
+        "nome": "Anatomia",
+        "especialidades": [
+          {
+            "codigo": "20604017",
+            "nome": "Anatomia Humana"
+          },
+          {
+            "codigo": "20604025",
+            "nome": "Anatomia Animal"
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "20700008",
+      "nome": "Fisiologia",
+      "sub-areas": {
+        "codigo": "20702000",
+        "nome": "Fisiologia de Órgãos e Sistemas",
+        "especialidades": [
+          {
+            "codigo": "20702019",
+            "nome": "Neurofisiologia"
+          },
+          {
+            "codigo": "20702027",
+            "nome": "Fisiologia Cardiovascular"
+          },
+          {
+            "codigo": "20702035",
+            "nome": "Fisiologia da Respiração"
+          },
+          {
+            "codigo": "20702043",
+            "nome": "Fisiologia Renal"
+          },
+          {
+            "codigo": "20702051",
+            "nome": "Fisiologia Endócrina"
+          },
+          {
+            "codigo": "20702060",
+            "nome": "Fisiologia da Digestão"
+          },
+          {
+            "codigo": "20702078",
+            "nome": "Cinesiologia"
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "20800002",
+      "nome": "Bioquímica",
+      "sub-areas": {
+        "codigo": "20801009",
+        "nome": "Química de Macromoléculas",
+        "especialidades": [
+          {
+            "codigo": "20801017",
+            "nome": "Proteínas"
+          },
+          {
+            "codigo": "20801025",
+            "nome": "Lipídeos"
+          },
+          {
+            "codigo": "20801033",
+            "nome": "Glicídeos"
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "21000000",
+      "nome": "Farmacologia",
+      "sub-areas": {
+        "codigo": "21001006",
+        "nome": "Farmacologia Geral",
+        "especialidades": [
+          {
+            "codigo": "21001014",
+            "nome": "Farmacocinética"
+          },
+          {
+            "codigo": "21001022",
+            "nome": "Biodisponibilidade"
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "21200009",
+      "nome": "Microbiologia",
+      "sub-areas": [
+        {
+          "codigo": "21201005",
+          "nome": "Biologia e Fisiologia dos Microorganismos",
+          "especialidades": [
+            {
+              "codigo": "21201013",
+              "nome": "Virologia"
+            },
+            {
+              "codigo": "21201021",
+              "nome": "Bacteriologia"
+            },
+            {
+              "codigo": "21201030",
+              "nome": "Micologia"
+            }
+          ]
+        },
+        {
+          "codigo": "21202001",
+          "nome": "Microbiologia Aplicada",
+          "especialidades": [
+            {
+              "codigo": "21202010",
+              "nome": "Microbiologia Médica"
+            },
+            {
+              "codigo": "21202028",
+              "nome": "Microbiologia Industrial e de Fermentação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "21300003",
+      "nome": "Parasitologia",
+      "sub-areas": [
+        {
+          "codigo": "21301000",
+          "nome": "Protozoologia de Parasitos",
+          "especialidades": [
+            {
+              "codigo": "21301018",
+              "nome": "Protozoologia Parasitária Humana"
+            },
+            {
+              "codigo": "21301026",
+              "nome": "Protozoologia Parasitária Animal"
+            }
+          ]
+        },
+        {
+          "codigo": "21302006",
+          "nome": "Helmintologia de Parasitos",
+          "especialidades": [
+            {
+              "codigo": "21302014",
+              "nome": "Helmintologia Humana"
+            },
+            {
+              "codigo": "21302022",
+              "nome": "Helmintologia Animal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "21400008",
+      "nome": "Biotecnologia",
+      "sub-areas": [
+        {
+          "codigo": "21401004",
+          "nome": "Biotecnologia em Saúde Humana e Animal",
+          "especialidades": [
+            {
+              "codigo": "21401012",
+              "nome": "Novas Drogas Terapêuticas"
+            },
+            {
+              "codigo": "21401020",
+              "nome": "Vacinas e Kits para Diagnósticos"
+            },
+            {
+              "codigo": "21401039",
+              "nome": "Técnicas de Reprodução"
+            },
+            {
+              "codigo": "21401047",
+              "nome": "Engenharia de Tecidos"
+            },
+            {
+              "codigo": "21401055",
+              "nome": "Ciências de Animais de Laboratórios"
+            },
+            {
+              "codigo": "21401063",
+              "nome": "Metodologias Alternativas ao Uso de Animais"
+            }
+          ]
+        },
+        {
+          "codigo": "21402000",
+          "nome": "Biotecnologia Industrial",
+          "especialidades": [
+            {
+              "codigo": "21402019",
+              "nome": "Bioprocessos"
+            },
+            {
+              "codigo": "21402027",
+              "nome": "Biocombustíveis"
+            }
+          ]
+        },
+        {
+          "codigo": "21403007",
+          "nome": "Biotecnologia Vegetal",
+          "especialidades": [
+            {
+              "codigo": "21403015",
+              "nome": "Melhoramento de Plantas"
+            },
+            {
+              "codigo": "21403023",
+              "nome": "Tecnologia de Processos e Produtos"
+            },
+            {
+              "codigo": "21403031",
+              "nome": "Plantas Transgênicas"
+            },
+            {
+              "codigo": "21403040",
+              "nome": "Conservação e Multiplicação de Germoplasma"
+            }
+          ]
+        },
+        {
+          "codigo": "21404003",
+          "nome": "Biotecnologia Ambiental e Recursos Naturais",
+          "especialidades": [
+            {
+              "codigo": "21404011",
+              "nome": "Bioprospecção"
+            },
+            {
+              "codigo": "21404020",
+              "nome": "Biodiversidade"
+            },
+            {
+              "codigo": "21404038",
+              "nome": "Tratamento Biológico de Residuos"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "30000009",
+  "nome": "Engenharias",
+  "areas": [
+    {
+      "codigo": "30100003",
+      "nome": "Engenharia Civil",
+      "sub-areas": [
+        {
+          "codigo": "30101000",
+          "nome": "Construção Civil",
+          "especialidades": [
+            {
+              "codigo": "30101018",
+              "nome": "Materiais e Componentes de Construção"
+            },
+            {
+              "codigo": "30101026",
+              "nome": "Processos Construtivos"
+            },
+            {
+              "codigo": "30101034",
+              "nome": "Instalações Prediais"
+            }
+          ]
+        },
+        {
+          "codigo": "30102006",
+          "nome": "Estruturas",
+          "especialidades": [
+            {
+              "codigo": "30102014",
+              "nome": "Estruturas de Concreto"
+            },
+            {
+              "codigo": "30102022",
+              "nome": "Estruturas de Madeiras"
+            },
+            {
+              "codigo": "30102030",
+              "nome": "Estruturas Metálicas"
+            },
+            {
+              "codigo": "30102049",
+              "nome": "Mecânica das Estruturas"
+            }
+          ]
+        },
+        {
+          "codigo": "30103002",
+          "nome": "Geotécnica",
+          "especialidades": [
+            {
+              "codigo": "30103010",
+              "nome": "Fundações e Escavações"
+            },
+            {
+              "codigo": "30103029",
+              "nome": "Mecânicas das Rochas"
+            },
+            {
+              "codigo": "30103037",
+              "nome": "Mecânicas dos Solos"
+            },
+            {
+              "codigo": "30103045",
+              "nome": "Obras de Terra e Enrocamento"
+            },
+            {
+              "codigo": "30103053",
+              "nome": "Pavimentos"
+            }
+          ]
+        },
+        {
+          "codigo": "30104009",
+          "nome": "Engenharia Hidráulica",
+          "especialidades": [
+            {
+              "codigo": "30104017",
+              "nome": "Hidráulica"
+            },
+            {
+              "codigo": "30104025",
+              "nome": "Hidrologia"
+            }
+          ]
+        },
+        {
+          "codigo": "30105005",
+          "nome": "Infra-Estrutura de Transportes",
+          "especialidades": [
+            {
+              "codigo": "30105013",
+              "nome": "Aeroportos; Projeto e Construção"
+            },
+            {
+              "codigo": "30105021",
+              "nome": "Ferrovias; Projetos e Construção"
+            },
+            {
+              "codigo": "30105030",
+              "nome": "Portos e Vias Navegáveis; Projeto e Construção"
+            },
+            {
+              "codigo": "30105048",
+              "nome": "Rodovias; Projeto e Construção"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "30200008",
+      "nome": "Engenharia de Minas",
+      "sub-areas": [
+        {
+          "codigo": "30201004",
+          "nome": "Pesquisa Mineral",
+          "especialidades": [
+            {
+              "codigo": "30201012",
+              "nome": "Caracterização do Minério"
+            },
+            {
+              "codigo": "30201020",
+              "nome": "Dimensionamento de Jazidas"
+            }
+          ]
+        },
+        {
+          "codigo": "30202000",
+          "nome": "Lavra",
+          "especialidades": [
+            {
+              "codigo": "30202019",
+              "nome": "Lavra a Céu Aberto"
+            },
+            {
+              "codigo": "30202027",
+              "nome": "Lavra de Mina Subterrânea"
+            },
+            {
+              "codigo": "30202035",
+              "nome": "Equipamentos de Lavra"
+            }
+          ]
+        },
+        {
+          "codigo": "30203007",
+          "nome": "Tratamento de Minérios",
+          "especialidades": [
+            {
+              "codigo": "30203015",
+              "nome": "Métodos de Concentração e Enriquecimento de Minérios"
+            },
+            {
+              "codigo": "30203023",
+              "nome": "Equipamentos de Beneficiamento de Minérios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "30300002",
+      "nome": "Engenharia de Materiais e Metalúrgica",
+      "sub-areas": [
+        {
+          "codigo": "30301009",
+          "nome": "Instalações e Equipamentos Metalúrgicos",
+          "especialidades": [
+            {
+              "codigo": "30301017",
+              "nome": "Instalações Metalúrgicas"
+            },
+            {
+              "codigo": "30301025",
+              "nome": "Equipamentos Metalúrgicos"
+            }
+          ]
+        },
+        {
+          "codigo": "30302005",
+          "nome": "Metalurgia Extrativa",
+          "especialidades": [
+            {
+              "codigo": "30302013",
+              "nome": "Aglomeração"
+            },
+            {
+              "codigo": "30302021",
+              "nome": "Eletrometalurgia"
+            },
+            {
+              "codigo": "30302030",
+              "nome": "Hidrometalurgia"
+            },
+            {
+              "codigo": "30302048",
+              "nome": "Pirometalurgia"
+            },
+            {
+              "codigo": "30302056",
+              "nome": "Tratamento de Minérios"
+            }
+          ]
+        },
+        {
+          "codigo": "30303001",
+          "nome": "Metalurgia de Transformação",
+          "especialidades": [
+            {
+              "codigo": "30303010",
+              "nome": "Conformação Mecânica"
+            },
+            {
+              "codigo": "30303028",
+              "nome": "Fundição"
+            },
+            {
+              "codigo": "30303036",
+              "nome": "Metalurgia de Pó"
+            },
+            {
+              "codigo": "30303044",
+              "nome": "Recobrimentos"
+            },
+            {
+              "codigo": "30303052",
+              "nome": "Soldagem"
+            },
+            {
+              "codigo": "30303060",
+              "nome": "Tratamentos Térmicos, Mecânicos e Químicos"
+            },
+            {
+              "codigo": "30303079",
+              "nome": "Usinagem"
+            }
+          ]
+        },
+        {
+          "codigo": "30304008",
+          "nome": "Metalurgia Física",
+          "especialidades": [
+            {
+              "codigo": "30304016",
+              "nome": "Estrutura dos Metais e Ligas"
+            },
+            {
+              "codigo": "30304024",
+              "nome": "Propriedades Físicas dos Metais e Ligas"
+            },
+            {
+              "codigo": "30304032",
+              "nome": "Propriedades Mecânicas dos Metais e Ligas"
+            },
+            {
+              "codigo": "30304040",
+              "nome": "Transformação de Fases"
+            },
+            {
+              "codigo": "30304059",
+              "nome": "Corrosão"
+            }
+          ]
+        },
+        {
+          "codigo": "30305004",
+          "nome": "Materiais Não-Metálicos",
+          "especialidades": [
+            {
+              "codigo": "30305012",
+              "nome": "Extração e Transformação de Materiais"
+            },
+            {
+              "codigo": "30305020",
+              "nome": "Cerâmicos"
+            },
+            {
+              "codigo": "30305039",
+              "nome": "Materiais Conjugados Não-Metálicos"
+            },
+            {
+              "codigo": "30305047",
+              "nome": "Polímeros, Aplicações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "30400007",
+      "nome": "Engenharia Elétrica",
+      "sub-areas": [
+        {
+          "codigo": "30401003",
+          "nome": "Materiais Elétricos",
+          "especialidades": [
+            {
+              "codigo": "30401011",
+              "nome": "Materiais Condutores"
+            },
+            {
+              "codigo": "30401020",
+              "nome": "Materiais e Componentes Semicondutores"
+            },
+            {
+              "codigo": "30401038",
+              "nome": "Materiais e Dispositivos Supercondutores"
+            },
+            {
+              "codigo": "30401046",
+              "nome": "Materiais Dielétricos, Piezoelétricos e Ferroelétricos"
+            },
+            {
+              "codigo": "30401054",
+              "nome": "Materiais e Componentes Eletroóticos e Magnetoóticos, Materiais Fotoelétricos"
+            },
+            {
+              "codigo": "30401062",
+              "nome": "Materiais e Dispositivos Magnéticos"
+            }
+          ]
+        },
+        {
+          "codigo": "30402000",
+          "nome": "Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação",
+          "especialidades": [
+            {
+              "codigo": "30402018",
+              "nome": "Medidas Elétricas"
+            },
+            {
+              "codigo": "30402026",
+              "nome": "Medidas Magnéticas"
+            },
+            {
+              "codigo": "30402034",
+              "nome": "Instrumentação Eletromecânica"
+            },
+            {
+              "codigo": "30402042",
+              "nome": "Instrumentação Eletrônica"
+            },
+            {
+              "codigo": "30402050",
+              "nome": "Sistemas Eletrônicos de Medida e de Controle"
+            }
+          ]
+        },
+        {
+          "codigo": "30403006",
+          "nome": "Circuitos Elétricos, Magnéticos e Eletrônicos",
+          "especialidades": [
+            {
+              "codigo": "30403014",
+              "nome": "Teoria Geral dos Circuitos Elétricos"
+            },
+            {
+              "codigo": "30403022",
+              "nome": "Circuitos Lineares e Não-Lineares"
+            },
+            {
+              "codigo": "30403030",
+              "nome": "Circuitos Eletrônicos"
+            },
+            {
+              "codigo": "30403049",
+              "nome": "Circuitos Magnéticos , Magnetismos e Eletromagnetismos"
+            }
+          ]
+        },
+        {
+          "codigo": "30404002",
+          "nome": "Sistemas Elétricos de Potência",
+          "especialidades": [
+            {
+              "codigo": "30404010",
+              "nome": "Geração da Energia Elétrica"
+            },
+            {
+              "codigo": "30404029",
+              "nome": "Transmissão da Energia Elétrica, Distribuição da Energia Elétrica"
+            },
+            {
+              "codigo": "30404037",
+              "nome": "Conversão e Retificação da Energia Elétrica"
+            },
+            {
+              "codigo": "30404045",
+              "nome": "Medição, Controle, Correção e Proteção de Sistemas Elétricos  de Potência"
+            },
+            {
+              "codigo": "30404053",
+              "nome": "Máquinas Elétricas e Dispositivos de Potência"
+            },
+            {
+              "codigo": "30404061",
+              "nome": "Instalações Elétricas e Industriais"
+            }
+          ]
+        },
+        {
+          "codigo": "30405009",
+          "nome": "Eletrônica Industrial, Sistemas e Controles Eletrônicos",
+          "especialidades": [
+            {
+              "codigo": "30405017",
+              "nome": "Eletrônica Industrial"
+            },
+            {
+              "codigo": "30405025",
+              "nome": "Automação Eletrônica de Processos Elétricos e Industriais"
+            },
+            {
+              "codigo": "30405033",
+              "nome": "Controle de Processos Eletrônicos, Retroalimentação"
+            }
+          ]
+        },
+        {
+          "codigo": "30406005",
+          "nome": "Telecomunicações",
+          "especialidades": [
+            {
+              "codigo": "30406013",
+              "nome": "Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas"
+            },
+            {
+              "codigo": "30406021",
+              "nome": "Radionavegação e Radioastronomia"
+            },
+            {
+              "codigo": "30406030",
+              "nome": "Sistemas de Telecomunicações"
+            }
+          ]
+        }
+      ]
+},
+{
+  "codigo": "30500001",
+  "nome": "Engenharia Mecânica",
+  "sub-areas": [
+    {
+      "codigo": "30501008",
+      "nome": "Fenômenos de Transporte",
+      "especialidades": [
+        {
+          "codigo": "30501016",
+          "nome": "Transferência de Calor"
+        },
+        {
+          "codigo": "30501024",
+          "nome": "Mecânica dos Fluídos"
+        },
+        {
+          "codigo": "30501032",
+          "nome": "Dinâmica dos Gases"
+        },
+        {
+          "codigo": "30501040",
+          "nome": "Princípios Variacionais e Métodos Numéricos"
+        }
+      ]
+    },
+    {
+      "codigo": "30502004",
+      "nome": "Engenharia Térmica",
+      "especialidades": [
+        {
+          "codigo": "30502012",
+          "nome": "Termodinâmica"
+        },
+        {
+          "codigo": "30502020",
+          "nome": "Controle Ambiental"
+        },
+        {
+          "codigo": "30502039",
+          "nome": "Aproveitamento da Energia"
+        }
+      ]
+    },
+    {
+      "codigo": "30503000",
+      "nome": "Mecânica dos Sólidos",
+      "especialidades": [
+        {
+          "codigo": "30503019",
+          "nome": "Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+        },
+        {
+          "codigo": "30503027",
+          "nome": "Dinâmica dos Corpos Rígidos, Elásticos e Plásticos"
+        },
+        {
+          "codigo": "30503035",
+          "nome": "Análise de Tensões"
+        },
+        {
+          "codigo": "30503043",
+          "nome": "Termoelasticidade"
+        }
+      ]
+    },
+    {
+      "codigo": "30504007",
+      "nome": "Projetos de Máquinas",
+      "especialidades": [
+        {
+          "codigo": "30504015",
+          "nome": "Teoria dos Mecanismos"
+        },
+        {
+          "codigo": "30504023",
+          "nome": "Estática e Dinâmica Aplicada"
+        },
+        {
+          "codigo": "30504031",
+          "nome": "Elementos de Máquinas"
+        },
+        {
+          "codigo": "30504040",
+          "nome": "Fundamentos Gerais de Projetos das Máquinas"
+        },
+        {
+          "codigo": "30504058",
+          "nome": "Máquinas, Motores e Equipamentos"
+        },
+        {
+          "codigo": "30504066",
+          "nome": "Métodos de Síntese e Otimização Aplicados ao Projeto Mecânico"
+        },
+        {
+          "codigo": "30504074",
+          "nome": "Controle de Sistemas Mecânicos"
+        },
+        {
+          "codigo": "30504082",
+          "nome": "Aproveitamento de Energia"
+        }
+      ]
+    },
+    {
+      "codigo": "30505003",
+      "nome": "Processos de Fabricação",
+      "especialidades": [
+        {
+          "codigo": "30505011",
+          "nome": "Matrizes e Ferramentas"
+        },
+        {
+          "codigo": "30505020",
+          "nome": "Maquinas de Usinagem e Conformação"
+        },
+        {
+          "codigo": "30505038",
+          "nome": "Controle Numérico"
+        },
+        {
+          "codigo": "30505046",
+          "nome": "Robotização"
+        },
+        {
+          "codigo": "30505054",
+          "nome": "Processos de Fabricação, Seleção Econômica"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "30600006",
+  "nome": "Engenharia Química",
+  "sub-areas": [
+    {
+      "codigo": "30601002",
+      "nome": "Processos Industriais de Engenharia Química",
+      "especialidades": [
+        {
+          "codigo": "30601010",
+          "nome": "Processos Bioquímicos"
+        },
+        {
+          "codigo": "30601029",
+          "nome": "Processos Orgânicos"
+        },
+        {
+          "codigo": "30601037",
+          "nome": "Processos Inorgânicos"
+        }
+      ]
+    },
+    {
+      "codigo": "30602009",
+      "nome": "Operações Industriais e Equipamentos para Engenharia Química",
+      "especialidades": [
+        {
+          "codigo": "30602017",
+          "nome": "Reatores Químicos"
+        },
+        {
+          "codigo": "30602025",
+          "nome": "Operações Características de Processos Bioquímicos"
+        },
+        {
+          "codigo": "30602033",
+          "nome": "Operações de Separação e Mistura"
+        }
+      ]
+    },
+    {
+      "codigo": "30603005",
+      "nome": "Tecnologia Química",
+      "especialidades": [
+        {
+          "codigo": "30603013",
+          "nome": "Balanços Globais de Matéria e Energia"
+        },
+        {
+          "codigo": "30603021",
+          "nome": "Água"
+        },
+        {
+          "codigo": "30603030",
+          "nome": "Álcool"
+        },
+        {
+          "codigo": "30603048",
+          "nome": "Alimentos"
+        },
+        {
+          "codigo": "30603056",
+          "nome": "Borrachas"
+        },
+        {
+          "codigo": "30603064",
+          "nome": "Carvão"
+        },
+        {
+          "codigo": "30603072",
+          "nome": "Cerâmica"
+        },
+        {
+          "codigo": "30603080",
+          "nome": "Cimento"
+        },
+        {
+          "codigo": "30603099",
+          "nome": "Couro"
+        },
+        {
+          "codigo": "30603102",
+          "nome": "Detergentes"
+        },
+        {
+          "codigo": "30603110",
+          "nome": "Fertilizantes"
+        },
+        {
+          "codigo": "30603129",
+          "nome": "Medicamentos"
+        },
+        {
+          "codigo": "30603137",
+          "nome": "Metais Não-Ferrosos"
+        },
+        {
+          "codigo": "30603145",
+          "nome": "Óleos"
+        },
+        {
+          "codigo": "30603153",
+          "nome": "Papel e Celulose"
+        },
+        {
+          "codigo": "30603161",
+          "nome": "Petróleo e Petroquímica"
+        },
+        {
+          "codigo": "30603170",
+          "nome": "Polímeros"
+        },
+        {
+          "codigo": "30603188",
+          "nome": "Produtos Naturais"
+        },
+        {
+          "codigo": "30603196",
+          "nome": "Têxteis"
+        },
+        {
+          "codigo": "30603200",
+          "nome": "Tratamentos e Aproveitamento de Rejeitos"
+        },
+        {
+          "codigo": "30603218",
+          "nome": "Xisto"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "30700000",
+  "nome": "Engenharia Sanitária",
+  "sub-areas": [
+    {
+      "codigo": "30701007",
+      "nome": "Recursos Hídricos",
+      "especialidades": [
+        {
+          "codigo": "30701015",
+          "nome": "Planejamento Integrado dos Recursos Hídricos"
+        },
+        {
+          "codigo": "30701023",
+          "nome": "Tecnologia e Problemas Sanitários de Irrigação"
+        },
+        {
+          "codigo": "30701031",
+          "nome": "Águas Subterráneas e Poços Profundos"
+        },
+        {
+          "codigo": "30701040",
+          "nome": "Controle de Enchentes e de Barragens"
+        },
+        {
+          "codigo": "30701058",
+          "nome": "Sedimentologia"
+        }
+      ]
+    },
+    {
+      "codigo": "30702003",
+      "nome": "Tratamento de Águas de Abastecimento e Residuárias",
+      "especialidades": [
+        {
+          "codigo": "30702011",
+          "nome": "Química Sanitária"
+        },
+        {
+          "codigo": "30702020",
+          "nome": "Processos Simplificados de Tratamento de Águas"
+        },
+        {
+          "codigo": "30702038",
+          "nome": "Técnicas Convencionais de Tratamento de Águas"
+        },
+        {
+          "codigo": "30702046",
+          "nome": "Técnicas Avançadas de Tratamento de Águas"
+        },
+        {
+          "codigo": "30702054",
+          "nome": "Estudos e Caracterização de Efluentes Industriais"
+        },
+        {
+          "codigo": "30702062",
+          "nome": "Layout de Processos Industriais"
+        },
+        {
+          "codigo": "30702070",
+          "nome": "Resíduos Radioativos"
+        }
+      ]
+    },
+    {
+      "codigo": "30703000",
+      "nome": "Saneamento Básico",
+      "especialidades": [
+        {
+          "codigo": "30703018",
+          "nome": "Técnicas de Abastecimento da Água"
+        },
+        {
+          "codigo": "30703026",
+          "nome": "Drenagem de Águas Residuárias"
+        },
+        {
+          "codigo": "30703034",
+          "nome": "Drenagem Urbana de Águas Pluviais"
+        },
+        {
+          "codigo": "30703042",
+          "nome": "Residuos Sólidos, Domésticos e Industriais"
+        },
+        {
+          "codigo": "30703050",
+          "nome": "Limpeza Pública"
+        },
+        {
+          "codigo": "30703069",
+          "nome": "Instalações Hidráulico-Sanitárias"
+        }
+      ]
+    },
+    {
+      "codigo": "30704006",
+      "nome": "Saneamento Ambiental",
+      "especialidades": [
+        {
+          "codigo": "30704014",
+          "nome": "Ecologia Aplicada a Engenharia Sanitária"
+        },
+        {
+          "codigo": "30704022",
+          "nome": "Microbiologia Aplicada e Engenharia Sanitária"
+        },
+        {
+          "codigo": "30704030",
+          "nome": "Parasitologia Aplicada a Engenharia Sanitária"
+        },
+        {
+          "codigo": "30704049",
+          "nome": "Qualidade do Ar, das Águas e do Solo"
+        },
+        {
+          "codigo": "30704057",
+          "nome": "Controle da Poluição"
+        },
+        {
+          "codigo": "30704065",
+          "nome": "Legislação Ambiental"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "30800005",
+  "nome": "Engenharia de Produção",
+  "sub-areas": [
+    {
+      "codigo": "30801001",
+      "nome": "Gerência de Produção",
+      "especialidades": [
+        {
+          "codigo": "30801010",
+          "nome": "Planejamento de Instalações Industriais"
+        },
+        {
+          "codigo": "30801028",
+          "nome": "Planejamento, Projeto e Controle de Sistemas de Produção"
+        },
+        {
+          "codigo": "30801036",
+          "nome": "Higiene e Segurança do Trabalho"
+        },
+        {
+          "codigo": "30801044",
+          "nome": "Suprimentos"
+        },
+        {
+          "codigo": "30801052",
+          "nome": "Garantia de Controle de Qualidade"
+        }
+      ]
+    },
+    {
+      "codigo": "30802008",
+      "nome": "Pesquisa Operacional",
+      "especialidades": [
+        {
+          "codigo": "30802016",
+          "nome": "Processos Estocásticos e Teoria das Filas"
+        },
+        {
+          "codigo": "30802024",
+          "nome": "Programação Linear, Não-Linear, Mista e Dinâmica"
+        },
+        {
+          "codigo": "30802032",
+          "nome": "Séries Temporais"
+        },
+        {
+          "codigo": "30802040",
+          "nome": "Teoria dos Grafos"
+        },
+        {
+          "codigo": "30802059",
+          "nome": "Teoria dos Jogos"
+        }
+      ]
+    },
+    {
+      "codigo": "30803004",
+      "nome": "Engenharia do Produto",
+      "especialidades": [
+        {
+          "codigo": "30803012",
+          "nome": "Ergonomia"
+        },
+        {
+          "codigo": "30803020",
+          "nome": "Metodologia de Projeto do Produto"
+        },
+        {
+          "codigo": "30803039",
+          "nome": "Processos de Trabalho"
+        },
+        {
+          "codigo": "30803047",
+          "nome": "Gerência do Projeto e do Produto"
+        },
+        {
+          "codigo": "30803055",
+          "nome": "Desenvolvimento de Produto"
+        }
+      ]
+    },
+    {
+      "codigo": "30804000",
+      "nome": "Engenharia Econômica",
+      "especialidades": [
+        {
+          "codigo": "30804019",
+          "nome": "Estudo de Mercado"
+        },
+        {
+          "codigo": "30804027",
+          "nome": "Localização Industrial"
+        },
+        {
+          "codigo": "30804035",
+          "nome": "Análise de Custos"
+        },
+        {
+          "codigo": "30804043",
+          "nome": "Economia de Tecnologia"
+        },
+        {
+          "codigo": "30804051",
+          "nome": "Vida Econômica dos Equipamentos"
+        },
+        {
+          "codigo": "30804060",
+          "nome": "Avaliação de Projetos"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "30900000",
+  "nome": "Engenharia Nuclear",
+  "sub-areas": [
+    {
+      "codigo": "30901006",
+      "nome": "Aplicações de Radioisótopos",
+      "especialidades": [
+        {
+          "codigo": "30901014",
+          "nome": "Produção de Radioisótopos"
+        },
+        {
+          "codigo": "30901022",
+          "nome": "Aplicações Industriais de Radioisótopos"
+        },
+        {
+          "codigo": "30901030",
+          "nome": "Instrumentação para Medida e Controle de Radiação"
+        }
+      ]
+    },
+    {
+      "codigo": "30902002",
+      "nome": "Fusão Controlada",
+      "especialidades": [
+        {
+          "codigo": "30902010",
+          "nome": "Processos Industriais da Fusão Controlada"
+        },
+        {
+          "codigo": "30902029",
+          "nome": "Problemas Tecnológicos da Fusão Controlada"
+        }
+      ]
+    },
+    {
+      "codigo": "30903009",
+      "nome": "Combustível Nuclear",
+      "especialidades": [
+        {
+          "codigo": "30903017",
+          "nome": "Extração de Combustível Nuclear"
+        },
+        {
+          "codigo": "30903025",
+          "nome": "Conversão, Enriquecimento e Fabricação de Combustível Nuclear"
+        },
+        {
+          "codigo": "30903033",
+          "nome": "Reprocessamento de Combustível Nuclear"
+        },
+        {
+          "codigo": "30903041",
+          "nome": "Rejeitos de Combustível Nuclear"
+        }
+      ]
+    },
+    {
+      "codigo": "30904005",
+      "nome": "Tecnologia dos Reatores",
+      "especialidades": [
+        {
+          "codigo": "30904013",
+          "nome": "Núcleo do Reator"
+        },
+        {
+          "codigo": "30904021",
+          "nome": "Materiais Nucleares e Blindagem de Reatores"
+        },
+        {
+          "codigo": "30904030",
+          "nome": "Transferência de Calor em Reatores"
+        },
+        {
+          "codigo": "30904048",
+          "nome": "Geração e Integração com Sistemas Elétricos  em Reatores"
+        },
+        {
+          "codigo": "30904056",
+          "nome": "Instrumentação para Operação e Controle de Reatores"
+        },
+        {
+          "codigo": "30904064",
+          "nome": "Segurança, Localização e Licenciamento de Reatores"
+        },
+        {
+          "codigo": "30904072",
+          "nome": "Aspectos Econômicos de Reatores"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "31000002",
+  "nome": "Engenharia de Transportes",
+  "sub-areas": [
+    {
+      "codigo": "31001009",
+      "nome": "Planejamento de Transportes",
+      "especialidades": [
+        {
+          "codigo": "31001017",
+          "nome": "Planejamento e Organização do Sistema de Transporte"
+        },
+        {
+          "codigo": "31001025",
+          "nome": "Economia dos Transportes"
+        }
+      ]
+    },
+    {
+      "codigo": "31002005",
+      "nome": "Veículos e Equipamentos de Controle",
+      "especialidades": [
+        {
+          "codigo": "31002013",
+          "nome": "Vias de Transporte"
+        },
+        {
+          "codigo": "31002021",
+          "nome": "Veículos de Transportes"
+        },
+        {
+          "codigo": "31002030",
+          "nome": "Estação de Transporte"
+        },
+        {
+          "codigo": "31002048",
+          "nome": "Equipamentos Auxiliares e Controles"
+        }
+      ]
+    },
+    {
+      "codigo": "31003001",
+      "nome": "Operações de Transportes",
+      "especialidades": [
+        {
+          "codigo": "31003010",
+          "nome": "Engenharia de Tráfego"
+        },
+        {
+          "codigo": "31003028",
+          "nome": "Capacidade de Vias de Transporte"
+        },
+        {
+          "codigo": "31003036",
+          "nome": "Operação de Sistemas de Transporte"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "31100007",
+  "nome": "Engenharia Naval e Oceânica",
+  "sub-areas": [
+    {
+      "codigo": "31101003",
+      "nome": "Hidrodinâmica de Navios e Sistemas Oceânicos",
+      "especialidades": [
+        {
+          "codigo": "31101011",
+          "nome": "Resistência Hidrodinâmica"
+        },
+        {
+          "codigo": "31101020",
+          "nome": "Propulsão de Navios"
+        }
+      ]
+    },
+    {
+      "codigo": "31102000",
+      "nome": "Estruturas Navais e Oceânicas",
+      "especialidades": [
+        {
+          "codigo": "31102018",
+          "nome": "Análise Teórica e Experimental de Estrutura"
+        },
+        {
+          "codigo": "31102026",
+          "nome": "Dinâmica Estrutural Naval e Oceânica"
+        },
+        {
+          "codigo": "31102034",
+          "nome": "Síntese Estrutural Naval e Oceânica"
+        }
+      ]
+    },
+    {
+      "codigo": "31103006",
+      "nome": "Máquinas Marítimas",
+      "especialidades": [
+        {
+          "codigo": "31103014",
+          "nome": "Análise de Sistemas Propulsores"
+        },
+        {
+          "codigo": "31103022",
+          "nome": "Controle e Automação de Sistemas Propulsores"
+        },
+        {
+          "codigo": "31103030",
+          "nome": "Equipamentos Auxiliares do Sistema Propulsivo"
+        },
+        {
+          "codigo": "31103049",
+          "nome": "Motor de Propulsão"
+        }
+      ]
+    },
+    {
+      "codigo": "31104002",
+      "nome": "Projeto de Navios e de Sistemas Oceânicos",
+      "especialidades": [
+        {
+          "codigo": "31104010",
+          "nome": "Projetos de Navios"
+        },
+        {
+          "codigo": "31104029",
+          "nome": "Projetos de Sistemas Oceânicos Fixos e Semi-Fixos"
+        },
+        {
+          "codigo": "31104037",
+          "nome": "Projetos de Embarcações Não-Convencionais"
+        }
+      ]
+    },
+    {
+      "codigo": "31105009",
+      "nome": "Tecnologia de Construção Naval e de Sistemas Oceânicos",
+      "especialidades": [
+        {
+          "codigo": "31105017",
+          "nome": "Métodos de Fabricação de Navios e Sistemas Oceânicos"
+        },
+        {
+          "codigo": "31105025",
+          "nome": "Soldagem de Estruturas Navais e Oceânicos"
+        },
+        {
+          "codigo": "31105033",
+          "nome": "Custos de Construção Naval"
+        },
+        {
+          "codigo": "31105041",
+          "nome": "Normatização e Certificação de Qualidade de Navios"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "31200001",
+  "nome": "Engenharia Aeroespacial",
+  "sub-areas": [
+    {
+      "codigo": "31201008",
+      "nome": "Aerodinâmica",
+      "especialidades": [
+        {
+          "codigo": "31201016",
+          "nome": "Aerodinâmica de Aeronaves Espaciais"
+        },
+        {
+          "codigo": "31201024",
+          "nome": "Aerodinâmica dos Processos Geofísicos e Interplanetários"
+        }
+      ]
+    },
+    {
+      "codigo": "31202004",
+      "nome": "Dinâmica de Vôo",
+      "especialidades": [
+        {
+          "codigo": "31202012",
+          "nome": "Trajetórias e Órbitas"
+        },
+        {
+          "codigo": "31202020",
+          "nome": "Estabilidade e Controle"
+        }
+      ]
+    },
+    {
+      "codigo": "31203000",
+      "nome": "Estruturas Aeroespaciais",
+      "especialidades": [
+        {
+          "codigo": "31203019",
+          "nome": "Aeroelasticicidade"
+        },
+        {
+          "codigo": "31203027",
+          "nome": "Fadiga"
+        },
+        {
+          "codigo": "31203035",
+          "nome": "Projeto de Estruturas Aeroespaciais"
+        }
+      ]
+    },
+    {
+      "codigo": "31205003",
+      "nome": "Propulsão Aeroespacial",
+      "especialidades": [
+        {
+          "codigo": "31205011",
+          "nome": "Combustão e Escoamento com Reações Químicas"
+        },
+        {
+          "codigo": "31205020",
+          "nome": "Propulsão de Foguetes"
+        },
+        {
+          "codigo": "31205038",
+          "nome": "Máquinas de Fluxo"
+        },
+        {
+          "codigo": "31205046",
+          "nome": "Motores Alternativos"
+        }
+      ]
+    },
+    {
+      "codigo": "31206000",
+      "nome": "Sistemas Aeroespaciais",
+      "especialidades": [
+        {
+          "codigo": "31206018",
+          "nome": "Aviões"
+        },
+        {
+          "codigo": "31206026",
+          "nome": "Foguetes"
+        },
+        {
+          "codigo": "31206034",
+          "nome": "Helicópteros"
+        },
+        {
+          "codigo": "31206042",
+          "nome": "Hovercraft"
+        },
+        {
+          "codigo": "31206050",
+          "nome": "Satélites e Outros Dispositivos Aeroespaciais"
+        },
+        {
+          "codigo": "31206069",
+          "nome": "Normatização e Certificação de Qualidade de Aeronaves e Componentes"
+        },
+        {
+          "codigo": "31206077",
+          "nome": "Manutenção de Sistemas Aeroespaciais"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "31300006",
+  "nome": "Engenharia Biomédica",
+  "sub-areas": [
+    {
+      "codigo": "31301002",
+      "nome": "Bioengenharia",
+      "especialidades": [
+        {
+          "codigo": "31301010",
+          "nome": "Processamento de Sinais Biológicos"
+        },
+        {
+          "codigo": "31301029",
+          "nome": "Modelagem de Fenômenos Biológicos"
+        },
+        {
+          "codigo": "31301037",
+          "nome": "Modelagem de Sistemas Biológicos"
+        }
+      ]
+    },
+    {
+      "codigo": "31302009",
+      "nome": "Engenharia Médica",
+      "especialidades": [
+        {
+          "codigo": "31302017",
+          "nome": "Biomateriais e Materiais Biocompatíveis"
+        },
+        {
+          "codigo": "31302025",
+          "nome": "Transdutores para Aplicações Biomédicas"
+        },
+        {
+          "codigo": "31302033",
+          "nome": "Instrumentação Odontológica e Médico-Hospitalar"
+        },
+        {
+          "codigo": "31302041",
+          "nome": "Tecnologia de Próteses"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "31400000",
+  "nome": "Engenharia de Energia",
+  "sub-areas": [
+    {
+      "codigo": "31401007",
+      "nome": "Planejamento Energético",
+      "especialidades": [
+        {
+          "codigo": "31401015",
+          "nome": "Sistemas Energéticos"
+        },
+        {
+          "codigo": "31401023",
+          "nome": "Política Energética Regional e Nacional"
+        },
+        {
+          "codigo": "31401031",
+          "nome": "Uso Eficiente de Energia"
+        },
+        {
+          "codigo": "31401040",
+          "nome": "Análise de Impactos Produzidos por Sistemas Energéticos"
+        }
+      ]
+    },
+    {
+      "codigo": "31402003",
+      "nome": "Fontes Renováveis de Energia",
+      "especialidades": [
+        {
+          "codigo": "31402011",
+          "nome": "Energia Solar Térmica"
+        },
+        {
+          "codigo": "31402020",
+          "nome": "Energia Solar Fotovoltáica"
+        },
+        {
+          "codigo": "31402038",
+          "nome": "Energia Eólica"
+        },
+        {
+          "codigo": "31402046",
+          "nome": "Micro-centrais Hidrelétricas"
+        },
+        {
+          "codigo": "31402054",
+          "nome": "Energia das Ondas e Marés"
+        },
+        {
+          "codigo": "31402062",
+          "nome": "Energia de Biomassa"
+        },
+        {
+          "codigo": "31402070",
+          "nome": "Sistemas Híbridos e Sistemas Não-convencionais de Armazenagem de Energia"
+        }
+      ]
+    }
+  ]
+}
+]
+},
+{
+  "codigo": "40000001",
+  "nome": "Ciências da Saúde",
+  "areas": {
+    "codigo": "40100006",
+    "nome": "Medicina",
+    "sub-areas": [
+      {
+        "codigo": "40101002",
+        "nome": "Clínica Médica",
+        "especialidades": [
+          {
+            "codigo": "40101010",
+            "nome": "Angiologia"
+          },
+          {
+            "codigo": "40101029",
+            "nome": "Dermatologia"
+          },
+          {
+            "codigo": "40101037",
+            "nome": "Alergologia e Imunologia Clínica"
+          },
+          {
+            "codigo": "40101045",
+            "nome": "Cancerologia"
+          },
+          {
+            "codigo": "40101053",
+            "nome": "Hematologia"
+          },
+          {
+            "codigo": "40101061",
+            "nome": "Endocrinologia"
+          },
+          {
+            "codigo": "40101070",
+            "nome": "Neurologia"
+          },
+          {
+            "codigo": "40101088",
+            "nome": "Pediatria"
+          },
+          {
+            "codigo": "40101096",
+            "nome": "Doenças Infecciosas e Parasitárias"
+          },
+          {
+            "codigo": "40101100",
+            "nome": "Cardiologia"
+          },
+          {
+            "codigo": "40101118",
+            "nome": "Gastroenterologia"
+          },
+          {
+            "codigo": "40101126",
+            "nome": "Pneumologia"
+          },
+          {
+            "codigo": "40101134",
+            "nome": "Nefrologia"
+          },
+          {
+            "codigo": "40101142",
+            "nome": "Reumatologia"
+          },
+          {
+            "codigo": "40101150",
+            "nome": "Ginecologia e Obstetrícia"
+          },
+          {
+            "codigo": "40101169",
+            "nome": "Fisiatria"
+          },
+          {
+            "codigo": "40101177",
+            "nome": "Oftalmologia"
+          },
+          {
+            "codigo": "40101186",
+            "nome": "Ortopedia"
+          }
+        ]
+      },
+      {
+        "codigo": "40102009",
+        "nome": "Cirurgia",
+        "especialidades": [
+          {
+            "codigo": "40102017",
+            "nome": "Cirurgia Plástica e Restauradora"
+          },
+          {
+            "codigo": "40102025",
+            "nome": "Cirurgia Otorrinolaringológica"
+          },
+          {
+            "codigo": "40102033",
+            "nome": "Cirurgia Oftalmológica"
+          },
+          {
+            "codigo": "40102041",
+            "nome": "Cirurgia Cardiovascular"
+          },
+          {
+            "codigo": "40102050",
+            "nome": "Cirurgia Toráxica"
+          },
+          {
+            "codigo": "40102068",
+            "nome": "Cirurgia Gastroenterologia"
+          },
+          {
+            "codigo": "40102076",
+            "nome": "Cirurgia Pediátrica"
+          },
+          {
+            "codigo": "40102084",
+            "nome": "Neurocirurgia"
+          },
+          {
+            "codigo": "40102092",
+            "nome": "Cirurgia Urológica"
+          },
+          {
+            "codigo": "40102106",
+            "nome": "Cirurgia Proctológica"
+          },
+          {
+            "codigo": "40102114",
+            "nome": "Cirurgia Ortopédica"
+          },
+          {
+            "codigo": "40102122",
+            "nome": "Cirurgia Traumatológica"
+          },
+          {
+            "codigo": "40102130",
+            "nome": "Anestesiologia"
+          },
+          {
+            "codigo": "40102149",
+            "nome": "Cirurgia Experimental"
+          }
+        ]
+      }
+    ]
+  }
+},
+{
+  "codigo": "50000004",
+  "nome": "Ciências Agrárias",
+  "areas": [
+    {
+      "codigo": "50100009",
+      "nome": "Agronomia",
+      "sub-areas": [
+        {
+          "codigo": "50101005",
+          "nome": "Ciência do Solo",
+          "especialidades": [
+            {
+              "codigo": "50101013",
+              "nome": "Gênese, Morfologia e Classificação dos Solos"
+            },
+            {
+              "codigo": "50101021",
+              "nome": "Física do Solo"
+            },
+            {
+              "codigo": "50101030",
+              "nome": "Química do Solo"
+            },
+            {
+              "codigo": "50101048",
+              "nome": "Microbiologia e Bioquímica do Solo"
+            },
+            {
+              "codigo": "50101056",
+              "nome": "Fertilidade do Solo e Adubação"
+            },
+            {
+              "codigo": "50101064",
+              "nome": "Manejo e Conservação do Solo"
+            }
+          ]
+        },
+        {
+          "codigo": "50102001",
+          "nome": "Fitossanidade",
+          "especialidades": [
+            {
+              "codigo": "50102010",
+              "nome": "Fitopatologia"
+            },
+            {
+              "codigo": "50102028",
+              "nome": "Entomologia Agrícola"
+            },
+            {
+              "codigo": "50102036",
+              "nome": "Parasitologia Agrícola"
+            },
+            {
+              "codigo": "50102044",
+              "nome": "Microbiologia Agrícola"
+            },
+            {
+              "codigo": "50102052",
+              "nome": "Defesa Fitossanitária"
+            }
+          ]
+        },
+        {
+          "codigo": "50103008",
+          "nome": "Fitotecnia",
+          "especialidades": [
+            {
+              "codigo": "50103016",
+              "nome": "Manejo e Tratos Culturais"
+            },
+            {
+              "codigo": "50103024",
+              "nome": "Mecanização Agrícola"
+            },
+            {
+              "codigo": "50103032",
+              "nome": "Produção e Beneficiamento de Sementes"
+            },
+            {
+              "codigo": "50103040",
+              "nome": "Produção de Mudas"
+            },
+            {
+              "codigo": "50103059",
+              "nome": "Melhoramento Vegetal"
+            },
+            {
+              "codigo": "50103067",
+              "nome": "Fisiologia de Plantas Cultivadas"
+            },
+            {
+              "codigo": "50103075",
+              "nome": "Matologia"
+            }
+          ]
+        },
+        {
+          "codigo": "50104004",
+          "nome": "Floricultura, Parques e Jardins",
+          "especialidades": [
+            {
+              "codigo": "50104012",
+              "nome": "Floricultura"
+            },
+            {
+              "codigo": "50104020",
+              "nome": "Parques e Jardins"
+            },
+            {
+              "codigo": "50104039",
+              "nome": "Arborização de Vias Públicas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "50200003",
+      "nome": "Recursos Florestais e Engenharia Florestal",
+      "sub-areas": [
+        {
+          "codigo": "50201000",
+          "nome": "Silvicultura",
+          "especialidades": [
+            {
+              "codigo": "50201018",
+              "nome": "Dendrologia"
+            },
+            {
+              "codigo": "50201026",
+              "nome": "Florestamento e Reflorestamento"
+            },
+            {
+              "codigo": "50201034",
+              "nome": "Genética e Melhoramento Florestal"
+            },
+            {
+              "codigo": "50201042",
+              "nome": "Sementes Florestais"
+            },
+            {
+              "codigo": "50201050",
+              "nome": "Nutrição Florestal"
+            },
+            {
+              "codigo": "50201069",
+              "nome": "Fisiologia Florestal"
+            },
+            {
+              "codigo": "50201077",
+              "nome": "Solos Florestais"
+            },
+            {
+              "codigo": "50201085",
+              "nome": "Proteção Florestal"
+            }
+          ]
+        },
+        {
+          "codigo": "50202006",
+          "nome": "Manejo Florestal",
+          "especialidades": [
+            {
+              "codigo": "50202014",
+              "nome": "Economia Florestal"
+            },
+            {
+              "codigo": "50202022",
+              "nome": "Política e Legislação Florestal"
+            },
+            {
+              "codigo": "50202030",
+              "nome": "Administração Florestal"
+            },
+            {
+              "codigo": "50202049",
+              "nome": "Dendrometria e Inventário Florestal"
+            },
+            {
+              "codigo": "50202057",
+              "nome": "Fotointerpretação Florestal"
+            },
+            {
+              "codigo": "50202065",
+              "nome": "Ordenamento Florestal"
+            }
+          ]
+        },
+        {
+          "codigo": "50203002",
+          "nome": "Técnicas e Operações Florestais",
+          "especialidades": [
+            {
+              "codigo": "50203010",
+              "nome": "Exploração Florestal"
+            },
+            {
+              "codigo": "50203029",
+              "nome": "Mecanização Florestal"
+            }
+          ]
+        },
+        {
+          "codigo": "50204009",
+          "nome": "Tecnologia e Utilização de Produtos Florestais",
+          "especialidades": [
+            {
+              "codigo": "50204017",
+              "nome": "Anatomia e Identificação de Produtos Florestais"
+            },
+            {
+              "codigo": "50204025",
+              "nome": "Propriedades Fisico-Mecânicas da Madeira"
+            },
+            {
+              "codigo": "50204033",
+              "nome": "Relações Água-Madeira e Secagem"
+            },
+            {
+              "codigo": "50204041",
+              "nome": "Tratamento da Madeira"
+            },
+            {
+              "codigo": "50204050",
+              "nome": "Processamento Mecânico da Madeira"
+            },
+            {
+              "codigo": "50204068",
+              "nome": "Química da Madeira"
+            },
+            {
+              "codigo": "50204076",
+              "nome": "Resinas de Madeiras"
+            },
+            {
+              "codigo": "50204084",
+              "nome": "Tecnologia de Celulose e Papel"
+            },
+            {
+              "codigo": "50204092",
+              "nome": "Tecnologia de Chapas"
+            }
+          ]
+        },
+        {
+          "codigo": "50205005",
+          "nome": "Conservação da Natureza",
+          "especialidades": [
+            {
+              "codigo": "50205013",
+              "nome": "Hidrologia Florestal"
+            },
+            {
+              "codigo": "50205021",
+              "nome": "Conservação de Áreas Silvestres"
+            },
+            {
+              "codigo": "50205030",
+              "nome": "Conservação de Bacias Hidrográficas"
+            },
+            {
+              "codigo": "50205048",
+              "nome": "Recuperação de Areas Degradadas"
+            }
+          ]
+        }
+      ]
+},
+{
+  "codigo": "50300008",
+  "nome": "Engenharia Agrícola",
+  "sub-areas": [
+    {
+      "codigo": "50302000",
+      "nome": "Engenharia de Água e Solo",
+      "especialidades": [
+        {
+          "codigo": "50302019",
+          "nome": "Irrigação e Drenagem"
+        },
+        {
+          "codigo": "50302027",
+          "nome": "Conservação de Solo e Água"
+        }
+      ]
+    },
+    {
+      "codigo": "50303007",
+      "nome": "Engenharia de Processamento de Produtos Agrícolas",
+      "especialidades": [
+        {
+          "codigo": "50303015",
+          "nome": "Pré-Processamento de Produtos Agrícolas"
+        },
+        {
+          "codigo": "50303023",
+          "nome": "Armazenamento de Produtos Agrícolas"
+        },
+        {
+          "codigo": "50303031",
+          "nome": "Transferência de Produtos Agrícolas"
+        }
+      ]
+    },
+    {
+      "codigo": "50304003",
+      "nome": "Construções Rurais e Ambiência",
+      "especialidades": [
+        {
+          "codigo": "50304011",
+          "nome": "Assentamento Rural"
+        },
+        {
+          "codigo": "50304020",
+          "nome": "Engenharia de Construções Rurais"
+        },
+        {
+          "codigo": "50304038",
+          "nome": "Saneamento Rural"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "50400002",
+  "nome": "Zootecnia",
+  "sub-areas": [
+    {
+      "codigo": "50403001",
+      "nome": "Nutrição e Alimentação Animal",
+      "especialidades": [
+        {
+          "codigo": "50403010",
+          "nome": "Exigências Nutricionais dos Animais"
+        },
+        {
+          "codigo": "50403028",
+          "nome": "Avaliação de Alimentos para Animais"
+        },
+        {
+          "codigo": "50403036",
+          "nome": "Conservação de Alimentos para Animais"
+        }
+      ]
+    },
+    {
+      "codigo": "50404008",
+      "nome": "Pastagem e Forragicultura",
+      "especialidades": [
+        {
+          "codigo": "50404016",
+          "nome": "Avaliação, Produção e Conservação de Forragens"
+        },
+        {
+          "codigo": "50404024",
+          "nome": "Manejo e Conservação de Pastagens"
+        },
+        {
+          "codigo": "50404032",
+          "nome": "Fisiologia de Plantas Forrageiras"
+        },
+        {
+          "codigo": "50404040",
+          "nome": "Melhoramento de Plantas Forrageiras e Produção de Sementes"
+        },
+        {
+          "codigo": "50404059",
+          "nome": "Toxicologia e Plantas Tóxicas"
+        }
+      ]
+    },
+    {
+      "codigo": "50405004",
+      "nome": "Produção Animal",
+      "especialidades": [
+        {
+          "codigo": "50405012",
+          "nome": "Criação de Animais"
+        },
+        {
+          "codigo": "50405020",
+          "nome": "Manejo de Animais"
+        },
+        {
+          "codigo": "50405039",
+          "nome": "Instalações para Produção Animal"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "50500007",
+  "nome": "Medicina Veterinária",
+  "sub-areas": [
+    {
+      "codigo": "50501003",
+      "nome": "Clínica e Cirurgia Animal",
+      "especialidades": [
+        {
+          "codigo": "50501011",
+          "nome": "Anestesiologia Animal"
+        },
+        {
+          "codigo": "50501020",
+          "nome": "Técnica Cirúrgica Animal"
+        },
+        {
+          "codigo": "50501038",
+          "nome": "Radiologia de Animais"
+        },
+        {
+          "codigo": "50501046",
+          "nome": "Farmacologia e Terapêutica Animal"
+        },
+        {
+          "codigo": "50501054",
+          "nome": "Obstetrícia Animal"
+        },
+        {
+          "codigo": "50501062",
+          "nome": "Clínica Veterinária"
+        },
+        {
+          "codigo": "50501070",
+          "nome": "Clínica Cirúrgica Animal"
+        },
+        {
+          "codigo": "50501089",
+          "nome": "Toxicologia Animal"
+        }
+      ]
+    },
+    {
+      "codigo": "50502000",
+      "nome": "Medicina Veterinária Preventiva",
+      "especialidades": [
+        {
+          "codigo": "50502018",
+          "nome": "Epidemiologia Animal"
+        },
+        {
+          "codigo": "50502026",
+          "nome": "Saneamento Aplicado a Saúde do Homem"
+        },
+        {
+          "codigo": "50502034",
+          "nome": "Doenças Infecciosas de Animais"
+        },
+        {
+          "codigo": "50502042",
+          "nome": "Doenças Parasitárias de Animais"
+        },
+        {
+          "codigo": "50502050",
+          "nome": "Saúde Animal (Programas Sanitários)"
+        }
+      ]
+    },
+    {
+      "codigo": "50503006",
+      "nome": "Patologia Animal",
+      "especialidades": [
+        {
+          "codigo": "50503014",
+          "nome": "Patologia Aviária"
+        },
+        {
+          "codigo": "50503022",
+          "nome": "Anatomia Patologia Animal"
+        },
+        {
+          "codigo": "50503030",
+          "nome": "Patologia Clínica Animal"
+        }
+      ]
+    },
+    {
+      "codigo": "50504002",
+      "nome": "Reprodução Animal",
+      "especialidades": [
+        {
+          "codigo": "50504010",
+          "nome": "Ginecologia e Andrologia Animal"
+        },
+        {
+          "codigo": "50504029",
+          "nome": "Inseminação Artificial Animal"
+        },
+        {
+          "codigo": "50504037",
+          "nome": "Fisiopatologia da Reprodução Animal"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "50600001",
+  "nome": "Recursos Pesqueiros e Engenharia de Pesca",
+  "sub-areas": [
+    {
+      "codigo": "50601008",
+      "nome": "Recursos Pesqueiros Marinhos",
+      "especialidades": [
+        {
+          "codigo": "50601016",
+          "nome": "Fatores Abióticos do Mar"
+        },
+        {
+          "codigo": "50601024",
+          "nome": "Avaliação de Estoques Pesqueiros Marinhos"
+        },
+        {
+          "codigo": "50601032",
+          "nome": "Exploração Pesqueira Marinha"
+        },
+        {
+          "codigo": "50601040",
+          "nome": "Manejo e Conservação de Recursos Pesqueiros Marinhos"
+        }
+      ]
+    },
+    {
+      "codigo": "50602004",
+      "nome": "Recursos Pesqueiros de Águas Interiores",
+      "especialidades": [
+        {
+          "codigo": "50602012",
+          "nome": "Fatores Abióticos de Águas Interiores"
+        },
+        {
+          "codigo": "50602020",
+          "nome": "Avaliação de Estoques Pesqueiros de Águas Interiores"
+        },
+        {
+          "codigo": "50602039",
+          "nome": "Explotação Pesqueira de Águas Interiores"
+        },
+        {
+          "codigo": "50602047",
+          "nome": "Manejo e Conservação de Recursos Pesqueiros de Águas Interiores"
+        }
+      ]
+    },
+    {
+      "codigo": "50603000",
+      "nome": "Aqüicultura",
+      "especialidades": [
+        {
+          "codigo": "50603019",
+          "nome": "Maricultura"
+        },
+        {
+          "codigo": "50603027",
+          "nome": "Carcinocultura"
+        },
+        {
+          "codigo": "50603035",
+          "nome": "Ostreicultura"
+        },
+        {
+          "codigo": "50603043",
+          "nome": "Piscicultura"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "50700006",
+  "nome": "Ciência e Tecnologia de Alimentos",
+  "sub-areas": [
+    {
+      "codigo": "50701002",
+      "nome": "Ciência de Alimentos",
+      "especialidades": [
+        {
+          "codigo": "50701010",
+          "nome": "Valor Nutritivo de Alimentos"
+        },
+        {
+          "codigo": "50701029",
+          "nome": "Química, Física, Fisico-Química e Bioquímica dos Alim. e das Mat-Primas Alimentares"
+        },
+        {
+          "codigo": "50701037",
+          "nome": "Microbiologia de Alimentos"
+        },
+        {
+          "codigo": "50701045",
+          "nome": "Fisiologia Pós-Colheita"
+        },
+        {
+          "codigo": "50701053",
+          "nome": "Toxicidade e Resíduos de Pesticidas em Alimentos"
+        },
+        {
+          "codigo": "50701061",
+          "nome": "Avaliação e Controle de Qualidade de Alimentos"
+        },
+        {
+          "codigo": "50701070",
+          "nome": "Padrões, Legislação e Fiscalização de Alimentos"
+        }
+      ]
+    },
+    {
+      "codigo": "50702009",
+      "nome": "Tecnologia de Alimentos",
+      "especialidades": [
+        {
+          "codigo": "50702017",
+          "nome": "Tecnologia de Produtos de Origem Animal"
+        },
+        {
+          "codigo": "50702025",
+          "nome": "Tecnologia de Produtos de Origem Vegetal"
+        },
+        {
+          "codigo": "50702033",
+          "nome": "Tecnologia das Bebidas"
+        },
+        {
+          "codigo": "50702041",
+          "nome": "Tecnologia de Alimentos Dietéticos e Nutricionais"
+        },
+        {
+          "codigo": "50702050",
+          "nome": "Aproveitamento de Subprodutos"
+        },
+        {
+          "codigo": "50702068",
+          "nome": "Embalagens de Produtos Alimentares"
+        }
+      ]
+    },
+    {
+      "codigo": "50703005",
+      "nome": "Engenharia de Alimentos",
+      "especialidades": [
+        {
+          "codigo": "50703013",
+          "nome": "Instalações Industriais de Produção de Alimentos"
+        },
+        {
+          "codigo": "50703021",
+          "nome": "Armazenamento de Alimentos"
+        }
+      ]
+    }
+  ]
+}
+]
+},
+{
+  "codigo": "60000007",
+  "nome": "Ciências Sociais Aplicadas",
+  "areas": [
+    {
+      "codigo": "60100001",
+      "nome": "Direito",
+      "sub-areas": [
+        {
+          "codigo": "60101008",
+          "nome": "Teoria do Direito",
+          "especialidades": [
+            {
+              "codigo": "60101016",
+              "nome": "Teoria Geral do Direito"
+            },
+            {
+              "codigo": "60101024",
+              "nome": "Teoria Geral do Processo"
+            },
+            {
+              "codigo": "60101032",
+              "nome": "Teoria do Estado"
+            },
+            {
+              "codigo": "60101040",
+              "nome": "História do Direito"
+            },
+            {
+              "codigo": "60101059",
+              "nome": "Filosofia do Direito"
+            },
+            {
+              "codigo": "60101067",
+              "nome": "Lógica Jurídica"
+            },
+            {
+              "codigo": "60101075",
+              "nome": "Sociologia Jurídica"
+            },
+            {
+              "codigo": "60101083",
+              "nome": "Antropologia Jurídica"
+            }
+          ]
+        },
+        {
+          "codigo": "60102004",
+          "nome": "Direito Público",
+          "especialidades": [
+            {
+              "codigo": "60102012",
+              "nome": "Direito Tributário"
+            },
+            {
+              "codigo": "60102020",
+              "nome": "Direito Penal"
+            },
+            {
+              "codigo": "60102039",
+              "nome": "Direito Processual Penal"
+            },
+            {
+              "codigo": "60102047",
+              "nome": "Direito Processual Civil"
+            },
+            {
+              "codigo": "60102055",
+              "nome": "Direito Constitucional"
+            },
+            {
+              "codigo": "60102063",
+              "nome": "Direito Administrativo"
+            },
+            {
+              "codigo": "60102071",
+              "nome": "Direito Internacional Público"
+            }
+          ]
+        },
+        {
+          "codigo": "60103000",
+          "nome": "Direito Privado",
+          "especialidades": [
+            {
+              "codigo": "60103019",
+              "nome": "Direito Civil"
+            },
+            {
+              "codigo": "60103027",
+              "nome": "Direito Comercial"
+            },
+            {
+              "codigo": "60103035",
+              "nome": "Direito do Trabalho"
+            },
+            {
+              "codigo": "60103043",
+              "nome": "Direito Internacional Privado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "60200006",
+      "nome": "Administração",
+      "sub-areas": [
+        {
+          "codigo": "60201002",
+          "nome": "Administração de Empresas",
+          "especialidades": [
+            {
+              "codigo": "60201010",
+              "nome": "Administração da Produção"
+            },
+            {
+              "codigo": "60201029",
+              "nome": "Administração Financeira"
+            },
+            {
+              "codigo": "60201037",
+              "nome": "Mercadologia"
+            },
+            {
+              "codigo": "60201045",
+              "nome": "Negócios Internacionais"
+            },
+            {
+              "codigo": "60201053",
+              "nome": "Administração de Recursos Humanos"
+            }
+          ]
+        },
+        {
+          "codigo": "60202009",
+          "nome": "Administração Pública",
+          "especialidades": [
+            {
+              "codigo": "60202017",
+              "nome": "Contabilidade e Finanças Públicas"
+            },
+            {
+              "codigo": "60202025",
+              "nome": "Organizações Públicas"
+            },
+            {
+              "codigo": "60202033",
+              "nome": "Política e Planejamento Governamentais"
+            },
+            {
+              "codigo": "60202041",
+              "nome": "Administração de Pessoal"
+            },
+            {
+              "codigo": "60202051",
+              "nome": "Planejamento em Ciência e Tecnologia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "60300000",
+      "nome": "Economia",
+      "sub-areas": [
+        {
+          "codigo": "60301007",
+          "nome": "Teoria Econômica",
+          "especialidades": [
+            {
+              "codigo": "60301015",
+              "nome": "Economia Geral"
+            },
+            {
+              "codigo": "60301023",
+              "nome": "Teoria Geral da Economia"
+            },
+            {
+              "codigo": "60301031",
+              "nome": "História do Pensamento Econômico"
+            },
+            {
+              "codigo": "60301040",
+              "nome": "História Econômica"
+            },
+            {
+              "codigo": "60301058",
+              "nome": "Sistemas Econômicos"
+            }
+          ]
+        },
+        {
+          "codigo": "60302003",
+          "nome": "Métodos Quantitativos em Economia",
+          "especialidades": [
+            {
+              "codigo": "60302011",
+              "nome": "Métodos e Modelos Matemáticos, Econométricos e Estatísticos"
+            },
+            {
+              "codigo": "60302020",
+              "nome": "Estatística Sócio-Econômica"
+            },
+            {
+              "codigo": "60302038",
+              "nome": "Contabilidade Nacional"
+            },
+            {
+              "codigo": "60302046",
+              "nome": "Economia Matemática"
+            }
+          ]
+        },
+        {
+          "codigo": "60303000",
+          "nome": "Economia Monetária e Fiscal",
+          "especialidades": [
+            {
+              "codigo": "60303018",
+              "nome": "Teoria Monetária e Financeira"
+            },
+            {
+              "codigo": "60303026",
+              "nome": "Instituições Monetárias e Financeiras do Brasil"
+            },
+            {
+              "codigo": "60303034",
+              "nome": "Finanças Públicas Internas"
+            },
+            {
+              "codigo": "60303042",
+              "nome": "Política Fiscal do Brasil"
+            }
+          ]
+        },
+        {
+          "codigo": "60304006",
+          "nome": "Crescimento, Flutuações e Planejamento Econômico",
+          "especialidades": [
+            {
+              "codigo": "60304014",
+              "nome": "Crescimento e Desenvolvimento Econômico"
+            },
+            {
+              "codigo": "60304022",
+              "nome": "Teoria e Política de Planejamento Econômico"
+            },
+            {
+              "codigo": "60304030",
+              "nome": "Flutuações Cíclicas e Projeções Econômicas"
+            },
+            {
+              "codigo": "60304049",
+              "nome": "Inflação"
+            }
+          ]
+        },
+        {
+          "codigo": "60305002",
+          "nome": "Economia Internacional",
+          "especialidades": [
+            {
+              "codigo": "60305010",
+              "nome": "Teoria do Comércio Internacional"
+            },
+            {
+              "codigo": "60305029",
+              "nome": "Relações do Comércio; Política Comercial; Integração Econômica"
+            },
+            {
+              "codigo": "60305037",
+              "nome": "Balanço de Pagamentos; Finanças Internacionais"
+            },
+            {
+              "codigo": "60305045",
+              "nome": "Investimentos Internacionais e Ajuda Externa"
+            }
+          ]
+        },
+        {
+          "codigo": "60306009",
+          "nome": "Economia dos Recursos Humanos",
+          "especialidades": [
+            {
+              "codigo": "60306017",
+              "nome": "Treinamento e Alocação de Mão-de-Obra; Oferta de Mão-de-Obra e Força de Trabalho"
+            },
+            {
+              "codigo": "60306025",
+              "nome": "Mercado de Trabalho; Política do Governo"
+            },
+            {
+              "codigo": "60306033",
+              "nome": "Sindicatos, Dissídios Coletivos, Relações de Emprego (Empregador/Empregado)"
+            },
+            {
+              "codigo": "60306041",
+              "nome": "Capital Humano"
+            },
+            {
+              "codigo": "60306050",
+              "nome": "Demografia Econômica"
+            }
+          ]
+        },
+        {
+          "codigo": "60307005",
+          "nome": "Economia Industrial",
+          "especialidades": [
+            {
+              "codigo": "60307013",
+              "nome": "Organização Industrial e  Estudos Industriais"
+            },
+            {
+              "codigo": "60307021",
+              "nome": "Mudança Tecnológica"
+            }
+          ]
+        },
+        {
+          "codigo": "60308001",
+          "nome": "Economia do Bem-Estar Social",
+          "especialidades": [
+            {
+              "codigo": "60308010",
+              "nome": "Economia dos Programas de Bem-Estar Social"
+            },
+            {
+              "codigo": "60308028",
+              "nome": "Economia do Consumidor"
+            }
+          ]
+        },
+        {
+          "codigo": "60309008",
+          "nome": "Economia Regional e Urbana",
+          "especialidades": [
+            {
+              "codigo": "60309016",
+              "nome": "Economia Regional"
+            },
+            {
+              "codigo": "60309024",
+              "nome": "Economia Urbana"
+            },
+            {
+              "codigo": "60309032",
+              "nome": "Renda e Tributação"
+            }
+          ]
+        },
+        {
+          "codigo": "60310006",
+          "nome": "Economias Agrária e dos Recursos Naturais",
+          "especialidades": [
+            {
+              "codigo": "60310014",
+              "nome": "Economia Agrária"
+            },
+            {
+              "codigo": "60310022",
+              "nome": "Economia dos Recursos Naturais"
+            }
+          ]
+        }
+      ]
+},
+{
+  "codigo": "60400005",
+  "nome": "Arquitetura e Urbanismo",
+  "sub-areas": [
+    {
+      "codigo": "60401001",
+      "nome": "Fundamentos de Arquitetura e Urbanismo",
+      "especialidades": [
+        {
+          "codigo": "60401010",
+          "nome": "História da Arquitetura e Urbanismo"
+        },
+        {
+          "codigo": "60401028",
+          "nome": "Teoria da Arquitetura"
+        },
+        {
+          "codigo": "60401036",
+          "nome": "História do Urbanismo"
+        },
+        {
+          "codigo": "60401044",
+          "nome": "Teoria do Urbanismo"
+        }
+      ]
+    },
+    {
+      "codigo": "60402008",
+      "nome": "Projeto de Arquitetura e Urbanismo",
+      "especialidades": [
+        {
+          "codigo": "60402016",
+          "nome": "Planejamento e Projetos da Edificação"
+        },
+        {
+          "codigo": "60402024",
+          "nome": "Planejamento e Projeto do Espaço Urbano"
+        },
+        {
+          "codigo": "60402032",
+          "nome": "Planejamento e Projeto do Equipamento"
+        }
+      ]
+    },
+    {
+      "codigo": "60403004",
+      "nome": "Tecnologia de Arquitetura e Urbanismo",
+      "especialidades": {
+        "codigo": "60403012",
+        "nome": "Adequação Ambiental"
+      }
+    },
+    {
+      "codigo": "60404000",
+      "nome": "Paisagismo",
+      "especialidades": [
+        {
+          "codigo": "60404019",
+          "nome": "Desenvolvimento Histórico do Paisagismo"
+        },
+        {
+          "codigo": "60404027",
+          "nome": "Conceituação de Paisagísmo e Metodologia do Paisagismo"
+        },
+        {
+          "codigo": "60404035",
+          "nome": "Estudos de Organização do Espaço Exterior"
+        },
+        {
+          "codigo": "60404043",
+          "nome": "Projetos de Espaços Livres Urbanos"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "60500000",
+  "nome": "Planejamento Urbano e Regional",
+  "sub-areas": [
+    {
+      "codigo": "60501006",
+      "nome": "Fundamentos do Planejamento Urbano e Regional",
+      "especialidades": [
+        {
+          "codigo": "60501014",
+          "nome": "Teoria do Planejamento Urbano e Regional"
+        },
+        {
+          "codigo": "60501022",
+          "nome": "Teoria da Urbanização"
+        },
+        {
+          "codigo": "60501030",
+          "nome": "Política Urbana"
+        },
+        {
+          "codigo": "60501049",
+          "nome": "História Urbana"
+        }
+      ]
+    },
+    {
+      "codigo": "60502002",
+      "nome": "Métodos e Técnicas do Planejamento Urbano e Regional",
+      "especialidades": [
+        {
+          "codigo": "60502010",
+          "nome": "Informação, Cadastro e Mapeamento"
+        },
+        {
+          "codigo": "60502029",
+          "nome": "Técnica de Previsão Urbana e Regional"
+        },
+        {
+          "codigo": "60502037",
+          "nome": "Técnicas de Análise e Avaliação Urbana e Regional"
+        },
+        {
+          "codigo": "60502045",
+          "nome": "Técnicas de Planejamento e Projeto Urbanos e Regionais"
+        }
+      ]
+    },
+    {
+      "codigo": "60503009",
+      "nome": "Serviços Urbanos e Regionais",
+      "especialidades": [
+        {
+          "codigo": "60503017",
+          "nome": "Administração Municipal e Urbana"
+        },
+        {
+          "codigo": "60503025",
+          "nome": "Estudos da Habitação"
+        },
+        {
+          "codigo": "60503033",
+          "nome": "Aspectos Sociais do Planejamento Urbano e Regional"
+        },
+        {
+          "codigo": "60503041",
+          "nome": "Aspectos Econômicos do Planejamento Urbano e Regional"
+        },
+        {
+          "codigo": "60503050",
+          "nome": "Aspectos Físico-Ambientais do Planejamento Urbano e Regional"
+        },
+        {
+          "codigo": "60503068",
+          "nome": "Serviços Comunitários"
+        },
+        {
+          "codigo": "60503076",
+          "nome": "Infra-Estruturas Urbanas e Regionais"
+        },
+        {
+          "codigo": "60503084",
+          "nome": "Transporte e Tráfego Urbano e Regional"
+        },
+        {
+          "codigo": "60503092",
+          "nome": "Legislação Urbana e Regional"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "60600004",
+  "nome": "Demografia",
+  "sub-areas": [
+    {
+      "codigo": "60601000",
+      "nome": "Distribuição Espacial",
+      "especialidades": [
+        {
+          "codigo": "60601019",
+          "nome": "Distribuição Espacial Geral"
+        },
+        {
+          "codigo": "60601027",
+          "nome": "Distribuição Espacial Urbana"
+        },
+        {
+          "codigo": "60601035",
+          "nome": "Distribuição Espacial Rural"
+        }
+      ]
+    },
+    {
+      "codigo": "60602007",
+      "nome": "Tendência Populacional",
+      "especialidades": [
+        {
+          "codigo": "60602015",
+          "nome": "Tendências Passadas"
+        },
+        {
+          "codigo": "60602023",
+          "nome": "Taxas e Estimativas Correntes"
+        },
+        {
+          "codigo": "60602031",
+          "nome": "Projeções"
+        }
+      ]
+    },
+    {
+      "codigo": "60603003",
+      "nome": "Componentes da Dinâmica Demográfica",
+      "especialidades": [
+        {
+          "codigo": "60603011",
+          "nome": "Fecundidade"
+        },
+        {
+          "codigo": "60603020",
+          "nome": "Mortalidade"
+        },
+        {
+          "codigo": "60603038",
+          "nome": "Migração"
+        }
+      ]
+    },
+    {
+      "codigo": "60604000",
+      "nome": "Nupcialidade e Família",
+      "especialidades": [
+        {
+          "codigo": "60604018",
+          "nome": "Casamento e Divórcio"
+        },
+        {
+          "codigo": "60604026",
+          "nome": "Família e Reprodução"
+        }
+      ]
+    },
+    {
+      "codigo": "60605006",
+      "nome": "Demografia Histórica",
+      "especialidades": [
+        {
+          "codigo": "60605014",
+          "nome": "Distribuição Espacial"
+        },
+        {
+          "codigo": "60605022",
+          "nome": "Natalidade, Mortalidade, Migração"
+        },
+        {
+          "codigo": "60605030",
+          "nome": "Nupcialidade e Família"
+        },
+        {
+          "codigo": "60605049",
+          "nome": "Métodos e Técnicas de Demografia Histórica"
+        }
+      ]
+    },
+    {
+      "codigo": "60606002",
+      "nome": "Política Pública e População",
+      "especialidades": [
+        {
+          "codigo": "60606010",
+          "nome": "Política Populacional"
+        },
+        {
+          "codigo": "60606029",
+          "nome": "Políticas de Redistribuição de População"
+        },
+        {
+          "codigo": "60606037",
+          "nome": "Políticas de Planejamento Familiar"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "60700009",
+  "nome": "Ciência da Informação",
+  "sub-areas": [
+    {
+      "codigo": "60701005",
+      "nome": "Teoria da Informação",
+      "especialidades": [
+        {
+          "codigo": "60701013",
+          "nome": "Teoria Geral da Informação"
+        },
+        {
+          "codigo": "60701021",
+          "nome": "Processos da Comunicação"
+        },
+        {
+          "codigo": "60701030",
+          "nome": "Representação da Informação"
+        }
+      ]
+    },
+    {
+      "codigo": "60702001",
+      "nome": "Biblioteconomia",
+      "especialidades": [
+        {
+          "codigo": "60702010",
+          "nome": "Teoria da Classificação"
+        },
+        {
+          "codigo": "60702028",
+          "nome": "Métodos Quantitativos. Bibliometria"
+        },
+        {
+          "codigo": "60702036",
+          "nome": "Técnicas de Recuperação de Informação"
+        },
+        {
+          "codigo": "60702044",
+          "nome": "Processos de Disseminação da Informação"
+        }
+      ]
+    },
+    {
+      "codigo": "60703008",
+      "nome": "Arquivologia",
+      "especialidades": {
+        "codigo": "60703016",
+        "nome": "Organização de Arquivos"
+      }
+    }
+  ]
+},
+{
+  "codigo": "60900008",
+  "nome": "Comunicação",
+  "sub-areas": [
+    {
+      "codigo": "60902000",
+      "nome": "Jornalismo e Editoração",
+      "especialidades": [
+        {
+          "codigo": "60902019",
+          "nome": "Teoria e Ética do Jornalismo"
+        },
+        {
+          "codigo": "60902027",
+          "nome": "Organização Editorial de Jornais"
+        },
+        {
+          "codigo": "60902035",
+          "nome": "Organização Comercial de Jornais"
+        },
+        {
+          "codigo": "60902043",
+          "nome": "Jornalismo Especializado (Comunitário, Rural, Empresarial, Científico)"
+        }
+      ]
+    },
+    {
+      "codigo": "60903007",
+      "nome": "Rádio e Televisão",
+      "especialidades": [
+        {
+          "codigo": "60903015",
+          "nome": "Radiodifusão"
+        },
+        {
+          "codigo": "60903023",
+          "nome": "Videodifusão"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "61000000",
+  "nome": "Serviço Social",
+  "sub-areas": {
+    "codigo": "61002003",
+    "nome": "Serviço Social Aplicado",
+    "especialidades": [
+      {
+        "codigo": "61002011",
+        "nome": "Serviço Social do Trabalho"
+      },
+      {
+        "codigo": "61002020",
+        "nome": "Serviço Social da Educação"
+      },
+      {
+        "codigo": "61002038",
+        "nome": "Serviço Social do Menor"
+      },
+      {
+        "codigo": "61002046",
+        "nome": "Serviço Social da Saúde"
+      },
+      {
+        "codigo": "61002054",
+        "nome": "Serviço Social da Habitação"
+      }
+    ]
+  }
+}
+]
+},
+{
+  "codigo": "70000000",
+  "nome": "Ciências Humanas",
+  "areas": [
+    {
+      "codigo": "70200009",
+      "nome": "Sociologia",
+      "sub-areas": {
+        "codigo": "70201005",
+        "nome": "Fundamentos da Sociologia",
+        "especialidades": [
+          {
+            "codigo": "70201013",
+            "nome": "Teoria Sociológica"
+          },
+          {
+            "codigo": "70201021",
+            "nome": "História da Sociologia"
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "70500002",
+      "nome": "História",
+      "sub-areas": [
+        {
+          "codigo": "70504008",
+          "nome": "História da América",
+          "especialidades": [
+            {
+              "codigo": "70504016",
+              "nome": "História dos Estados Unidos"
+            },
+            {
+              "codigo": "70504024",
+              "nome": "História Latino-Americana"
+            }
+          ]
+        },
+        {
+          "codigo": "70505004",
+          "nome": "História do Brasil",
+          "especialidades": [
+            {
+              "codigo": "70505012",
+              "nome": "História do Brasil Colônia"
+            },
+            {
+              "codigo": "70505020",
+              "nome": "História do Brasil Império"
+            },
+            {
+              "codigo": "70505039",
+              "nome": "História do Brasil República"
+            },
+            {
+              "codigo": "70505047",
+              "nome": "História Regional do Brasil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "70600007",
+      "nome": "Geografia",
+      "sub-areas": [
+        {
+          "codigo": "70601003",
+          "nome": "Geografia Humana",
+          "especialidades": [
+            {
+              "codigo": "70601011",
+              "nome": "Geografia da População"
+            },
+            {
+              "codigo": "70601020",
+              "nome": "Geografia Agrária"
+            },
+            {
+              "codigo": "70601038",
+              "nome": "Geografia Urbana"
+            },
+            {
+              "codigo": "70601046",
+              "nome": "Geografia Econômica"
+            },
+            {
+              "codigo": "70601054",
+              "nome": "Geografia Política"
+            }
+          ]
+        },
+        {
+          "codigo": "70602000",
+          "nome": "Geografia Regional",
+          "especialidades": [
+            {
+              "codigo": "70602018",
+              "nome": "Teoria do Desenvolvimento Regional"
+            },
+            {
+              "codigo": "70602026",
+              "nome": "Regionalização"
+            },
+            {
+              "codigo": "70602034",
+              "nome": "Análise Regional"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "70700001",
+      "nome": "Psicologia",
+      "sub-areas": [
+        {
+          "codigo": "70701008",
+          "nome": "Fundamentos e Medidas da Psicologia",
+          "especialidades": [
+            {
+              "codigo": "70701016",
+              "nome": "História, Teorias e Sistemas em Psicologia"
+            },
+            {
+              "codigo": "70701024",
+              "nome": "Metodologia, Instrumentação e Equipamento em Psicologia"
+            },
+            {
+              "codigo": "70701032",
+              "nome": "Construção e Validade de Testes, Escalas e Outras Medidas Psicológicas"
+            },
+            {
+              "codigo": "70701040",
+              "nome": "Técnicas de Processamento Estatístico, Matemático e Computacional em Psicologia"
+            }
+          ]
+        },
+        {
+          "codigo": "70702004",
+          "nome": "Psicologia Experimental",
+          "especialidades": [
+            {
+              "codigo": "70702012",
+              "nome": "Processos Perceptuais e Motores"
+            },
+            {
+              "codigo": "70702020",
+              "nome": "Processos de Aprendizagem, Memória e Motivação"
+            },
+            {
+              "codigo": "70702039",
+              "nome": "Processos Cognitivos e Atencionais"
+            },
+            {
+              "codigo": "70702047",
+              "nome": "Estados Subjetivos e Emoção"
+            }
+          ]
+        },
+        {
+          "codigo": "70703000",
+          "nome": "Psicologia Fisiológica",
+          "especialidades": [
+            {
+              "codigo": "70703019",
+              "nome": "Neurologia, Eletrofisiologia e Comportamento"
+            },
+            {
+              "codigo": "70703027",
+              "nome": "Processos Psico-Fisiológicos"
+            },
+            {
+              "codigo": "70703035",
+              "nome": "Estimulação Elétrica e com Drogas; Comportamento"
+            },
+            {
+              "codigo": "70703043",
+              "nome": "Psicobiologia"
+            }
+          ]
+        },
+        {
+          "codigo": "70704007",
+          "nome": "Psicologia Comparativa",
+          "especialidades": [
+            {
+              "codigo": "70704015",
+              "nome": "Estudos Naturalísticos do Comportamento Animal"
+            },
+            {
+              "codigo": "70704023",
+              "nome": "Mecanismos Instintivos e Processos Sociais em Animais"
+            }
+          ]
+        },
+        {
+          "codigo": "70705003",
+          "nome": "Psicologia Social",
+          "especialidades": [
+            {
+              "codigo": "70705011",
+              "nome": "Relações Interpessoais"
+            },
+            {
+              "codigo": "70705020",
+              "nome": "Processos Grupais e de Comunicação"
+            },
+            {
+              "codigo": "70705038",
+              "nome": "Papéis e Estruturas Sociais; Indivíduo"
+            }
+          ]
+        },
+        {
+          "codigo": "70707006",
+          "nome": "Psicologia do Desenvolvimento Humano",
+          "especialidades": [
+            {
+              "codigo": "70707014",
+              "nome": "Processos Perceptuais e Cognitivos; Desenvolvimento"
+            },
+            {
+              "codigo": "70707022",
+              "nome": "Desenvolvimento Social e da Personalidade"
+            }
+          ]
+        },
+        {
+          "codigo": "70708002",
+          "nome": "Psicologia do Ensino e da Aprendizagem",
+          "especialidades": [
+            {
+              "codigo": "70708010",
+              "nome": "Planejamento Institucional"
+            },
+            {
+              "codigo": "70708029",
+              "nome": "Programação de Condições de Ensino"
+            },
+            {
+              "codigo": "70708037",
+              "nome": "Treinamento de Pessoal"
+            },
+            {
+              "codigo": "70708045",
+              "nome": "Aprendizagem e Desempenho Acadêmicos"
+            },
+            {
+              "codigo": "70708053",
+              "nome": "Ensino e Aprendizagem na Sala de Aula"
+            }
+          ]
+        },
+        {
+          "codigo": "70709009",
+          "nome": "Psicologia do Trabalho e Organizacional",
+          "especialidades": [
+            {
+              "codigo": "70709017",
+              "nome": "Análise Institucional"
+            },
+            {
+              "codigo": "70709025",
+              "nome": "Recrutamento e Seleção de Pessoal"
+            },
+            {
+              "codigo": "70709033",
+              "nome": "Treinamento e Avaliação"
+            },
+            {
+              "codigo": "70709041",
+              "nome": "Fatores Humanos no Trabalho"
+            },
+            {
+              "codigo": "70709050",
+              "nome": "Planejamento Ambiental e Comportamento Humano"
+            }
+          ]
+        },
+        {
+          "codigo": "70710007",
+          "nome": "Tratamento e Prevenção Psicológica",
+          "especialidades": [
+            {
+              "codigo": "70710015",
+              "nome": "Intervenção Terapêutica"
+            },
+            {
+              "codigo": "70710023",
+              "nome": "Programas de Atendimento Comunitário"
+            },
+            {
+              "codigo": "70710031",
+              "nome": "Treinamento e Reabilitação"
+            },
+            {
+              "codigo": "70710040",
+              "nome": "Desvios da Conduta"
+            },
+            {
+              "codigo": "70710058",
+              "nome": "Distúrbios da Linguagem"
+            },
+            {
+              "codigo": "70710066",
+              "nome": "Distúrbios Psicossomáticos"
+            }
+          ]
+        }
+      ]
+},
+{
+  "codigo": "70800006",
+  "nome": "Educação",
+  "sub-areas": [
+    {
+      "codigo": "70801002",
+      "nome": "Fundamentos da Educação",
+      "especialidades": [
+        {
+          "codigo": "70801010",
+          "nome": "Filosofia da Educação"
+        },
+        {
+          "codigo": "70801029",
+          "nome": "História da Educação"
+        },
+        {
+          "codigo": "70801037",
+          "nome": "Sociologia da Educação"
+        },
+        {
+          "codigo": "70801045",
+          "nome": "Antropologia Educacional"
+        },
+        {
+          "codigo": "70801053",
+          "nome": "Economia da Educação"
+        },
+        {
+          "codigo": "70801061",
+          "nome": "Psicologia Educacional"
+        }
+      ]
+    },
+    {
+      "codigo": "70802009",
+      "nome": "Administração Educacional",
+      "especialidades": [
+        {
+          "codigo": "70802017",
+          "nome": "Administração de Sistemas Educacionais"
+        },
+        {
+          "codigo": "70802025",
+          "nome": "Administração de Unidades Educativas"
+        }
+      ]
+    },
+    {
+      "codigo": "70803005",
+      "nome": "Planejamento e Avaliação Educacional",
+      "especialidades": [
+        {
+          "codigo": "70803013",
+          "nome": "Política Educacional"
+        },
+        {
+          "codigo": "70803021",
+          "nome": "Planejamento Educacional"
+        },
+        {
+          "codigo": "70803030",
+          "nome": "Avaliação de Sistemas, Instituições, Planos e Programas Educacionais"
+        }
+      ]
+    },
+    {
+      "codigo": "70804001",
+      "nome": "Ensino-Aprendizagem",
+      "especialidades": [
+        {
+          "codigo": "70804010",
+          "nome": "Teorias da Instrução"
+        },
+        {
+          "codigo": "70804028",
+          "nome": "Métodos e Técnicas de Ensino"
+        },
+        {
+          "codigo": "70804036",
+          "nome": "Tecnologia Educacional"
+        },
+        {
+          "codigo": "70804044",
+          "nome": "Avaliação da Aprendizagem"
+        }
+      ]
+    },
+    {
+      "codigo": "70805008",
+      "nome": "Currículo",
+      "especialidades": [
+        {
+          "codigo": "70805016",
+          "nome": "Teoria Geral de Planejamento e Desenvolvimento Curricular"
+        },
+        {
+          "codigo": "70805024",
+          "nome": "Currículos Específicos para Níveis e Tipos de Educação"
+        }
+      ]
+    },
+    {
+      "codigo": "70806004",
+      "nome": "Orientação e Aconselhamento",
+      "especialidades": [
+        {
+          "codigo": "70806012",
+          "nome": "Orientação Educacional"
+        },
+        {
+          "codigo": "70806020",
+          "nome": "Orientação Vocacional"
+        }
+      ]
+    },
+    {
+      "codigo": "70807000",
+      "nome": "Tópicos Específicos de Educação",
+      "especialidades": [
+        {
+          "codigo": "70807019",
+          "nome": "Educação de Adultos"
+        },
+        {
+          "codigo": "70807027",
+          "nome": "Educação Permanente"
+        },
+        {
+          "codigo": "70807035",
+          "nome": "Educação Rural"
+        },
+        {
+          "codigo": "70807043",
+          "nome": "Educação em Periferias Urbanas"
+        },
+        {
+          "codigo": "70807051",
+          "nome": "Educação Especial"
+        },
+        {
+          "codigo": "70807060",
+          "nome": "Educação Pré-Escolar"
+        },
+        {
+          "codigo": "70807078",
+          "nome": "Ensino Profissionalizante"
+        }
+      ]
+    }
+  ]
+},
+{
+  "codigo": "70900000",
+  "nome": "Ciência Política",
+  "sub-areas": [
+    {
+      "codigo": "70901007",
+      "nome": "Teoria Política",
+      "especialidades": [
+        {
+          "codigo": "70901015",
+          "nome": "Teoria Política Clássica"
+        },
+        {
+          "codigo": "70901023",
+          "nome": "Teoria Política Medieval"
+        },
+        {
+          "codigo": "70901031",
+          "nome": "Teoria Política Moderna"
+        },
+        {
+          "codigo": "70901040",
+          "nome": "Teoria Política Contemporânea"
+        }
+      ]
+    },
+    {
+      "codigo": "70902003",
+      "nome": "Estado e Governo",
+      "especialidades": [
+        {
+          "codigo": "70902011",
+          "nome": "Estrutura e Transformação do Estado"
+        },
+        {
+          "codigo": "70902020",
+          "nome": "Sistemas Governamentais Comparados"
+        },
+        {
+          "codigo": "70902038",
+          "nome": "Relações Intergovernamentais"
+        },
+        {
+          "codigo": "70902046",
+          "nome": "Estudos do Poder Local"
+        },
+        {
+          "codigo": "70902054",
+          "nome": "Instituições Governamentais Específicas"
+        }
+      ]
+    },
+    {
+      "codigo": "70903000",
+      "nome": "Comportamento Político",
+      "especialidades": [
+        {
+          "codigo": "70903018",
+          "nome": "Estudos Eleitorais e Partidos Políticos"
+        },
+        {
+          "codigo": "70903026",
+          "nome": "Atitude e Ideologias Políticas"
+        },
+        {
+          "codigo": "70903034",
+          "nome": "Conflitos e Coalizões Políticas"
+        },
+        {
+          "codigo": "70903042",
+          "nome": "Comportamento Legislativo"
+        },
+        {
+          "codigo": "70903050",
+          "nome": "Classes Sociais e Grupos de Interesse"
+        }
+      ]
+    },
+    {
+      "codigo": "70904006",
+      "nome": "Políticas Públicas",
+      "especialidades": [
+        {
+          "codigo": "70904014",
+          "nome": "Análise do Processo Decisório"
+        },
+        {
+          "codigo": "70904022",
+          "nome": "Análise Institucional"
+        },
+        {
+          "codigo": "70904030",
+          "nome": "Técnicas de Antecipação"
+        }
+      ]
+    },
+    {
+      "codigo": "70905002",
+      "nome": "Política Internacional",
+      "especialidades": [
+        {
+          "codigo": "70905010",
+          "nome": "Política Externa do Brasil"
+        },
+        {
+          "codigo": "70905029",
+          "nome": "Organizações Internacionais"
+        },
+        {
+          "codigo": "70905037",
+          "nome": "Integração Internacional, Conflito, Guerra e Paz"
+        },
+        {
+          "codigo": "70905045",
+          "nome": "Relações Internacionais, Bilaterais e Multilaterais"
+        }
+      ]
+    }
+  ]
+}
+]
+},
+{
+  "codigo": "80000002",
+  "nome": "Lingüística, Letras e Artes",
+  "areas": {
+    "codigo": "80300006",
+    "nome": "Artes",
+    "sub-areas": [
+      {
+        "codigo": "80301002",
+        "nome": "Fundamentos e Crítica das Artes",
+        "especialidades": [
+          {
+            "codigo": "80301010",
+            "nome": "Teoria da Arte"
+          },
+          {
+            "codigo": "80301029",
+            "nome": "História da Arte"
+          },
+          {
+            "codigo": "80301037",
+            "nome": "Crítica da Arte"
+          }
+        ]
+      },
+      {
+        "codigo": "80302009",
+        "nome": "Artes Plásticas",
+        "especialidades": [
+          {
+            "codigo": "80302017",
+            "nome": "Pintura"
+          },
+          {
+            "codigo": "80302025",
+            "nome": "Desenho"
+          },
+          {
+            "codigo": "80302033",
+            "nome": "Gravura"
+          },
+          {
+            "codigo": "80302041",
+            "nome": "Escultura"
+          },
+          {
+            "codigo": "80302050",
+            "nome": "Cerâmica"
+          },
+          {
+            "codigo": "80302068",
+            "nome": "Tecelagem"
+          }
+        ]
+      },
+      {
+        "codigo": "80303005",
+        "nome": "Música",
+        "especialidades": [
+          {
+            "codigo": "80303013",
+            "nome": "Regência"
+          },
+          {
+            "codigo": "80303021",
+            "nome": "Instrumentação Musical"
+          },
+          {
+            "codigo": "80303030",
+            "nome": "Composição Musical"
+          },
+          {
+            "codigo": "80303048",
+            "nome": "Canto"
+          }
+        ]
+      },
+      {
+        "codigo": "80304001",
+        "nome": "Dança",
+        "especialidades": [
+          {
+            "codigo": "80304010",
+            "nome": "Execução da Dança"
+          },
+          {
+            "codigo": "80304028",
+            "nome": "Coreografia"
+          }
+        ]
+      },
+      {
+        "codigo": "80305008",
+        "nome": "Teatro",
+        "especialidades": [
+          {
+            "codigo": "80305016",
+            "nome": "Dramaturgia"
+          },
+          {
+            "codigo": "80305024",
+            "nome": "Direção Teatral"
+          },
+          {
+            "codigo": "80305032",
+            "nome": "Cenografia"
+          },
+          {
+            "codigo": "80305040",
+            "nome": "Interpretação Teatral"
+          }
+        ]
+      },
+      {
+        "codigo": "80308007",
+        "nome": "Cinema",
+        "especialidades": [
+          {
+            "codigo": "80308015",
+            "nome": "Administração e Produção de Filmes"
+          },
+          {
+            "codigo": "80308023",
+            "nome": "Roteiro e Direção Cinematográficos"
+          },
+          {
+            "codigo": "80308031",
+            "nome": "Técnicas de Registro e Processamento de Filmes"
+          },
+          {
+            "codigo": "80308040",
+            "nome": "Interpretação Cinematográfica"
+          }
+        ]
+      }
+    ]
+  }
+}
+]
+}
